@@ -1,0 +1,134 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: UTF-8
+
+
+@Inproceedings{belharbiESANN2016,
+  Title                    = {Deep multi-task learning with evolving weights},
+  Author                   = {Belharbi, Soufiane and Hérault, Romain and Chatelain, Clément and Adam, Sébastien},
+  Booktitle                = {European Symposium on Artificial Neural Networks (ESANN)},
+  Year                     = {2016},
+
+  Address                  = {Bruges, Belgium},
+  Pllinks                  = {[PDF]:/publications/2016/ESANN2016-Belharbi.pdf; [Presentation]:/publications/2016/presentation-ESANN2016-bleharbi.pdf},
+
+  Crossref                 = {belharbi2017},
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.05}
+}
+
+@Misc{belharbiLLaneuve2016,
+  Title                    = {Deep Neural Networks and Structured Output Problems},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {Image and Signal Processing Seminars, Université Catholique de Louvain},
+  Month                    = {December},
+  Pllinks                  = {[Presentation]:/publications/2016/presentation-bxl-louvain-laneuve-belharbi2016.pdf},
+  Year                     = {2016},
+
+  Comment                  = {Image and Signal Processing Seminars},
+  Owner                    = {brian},
+  Timestamp                = {2017.02.13},
+  Url                      = {http://sites.uclouvain.be/ispgroup/index.php/ISPS.ABS081216}
+}
+
+@Misc{sbelharbiGDRISIOct2016,
+  Title                    = {Détection de la Coupe L3 par CNN et Transfert Learning},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {GDR Information, Signal, Image et ViSion. Télécom ParisTech},
+  Month                    = {October},
+  Pllinks                  = {[Presentation]:/publications/2016/presentation-gdrisis-l3-belharbi2016.pdf},
+  Year                     = {2016},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.13},
+  Url                      = {http://gdr-isis.fr/index.php?page=reunion&idreunion=320}
+}
+
+@Misc{sbelharbiJDD2016,
+  Title                    = {Deep Multi-task Learning with Evolving Weights},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {Journée Des Doctorants (JDD). Université du Havre},
+  Month                    = {June},
+  Pllinks                  = {[Presentation]:/publications/2016/presentation-jdd-belharbi2016.pdf},
+  Year                     = {2016},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.13}
+}
+
+@Misc{sbelharbiNormasticJune2016,
+  Title                    = {Deep Multi-task Learning with Evolving Weights},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {Normastic, Journée « Deep Learning » de l’axe Données, Apprentissage, Connaissances. UFR des Science, Universté de Caen},
+  Month                    = {June},
+  Pllinks                  = {[Presentation]:/publications/2016/presentation-normastic-belharbi2016.pdf},
+  Year                     = {2016},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.13},
+  Url                      = {http://www.normastic.fr/event/journee-de-laxe-donnees-apprentissage-connaissances/}
+}
+
+@Article{belharbiCAP2015,
+  Title                    = {A Unified Neural Based Model For Structured Output Problems},
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  Journal                  = {Conférence Francophone sur l'Apprentissage Automatique (CAP)},
+  Year                     = {2015},
+  Pllinks                  = {[PDF]:/publications/2015/belharbiCAP2015.pdf; [Poster]:/publications/2015/belharbiPosterCAP2015.pdf},
+
+  Booktitle                = {Conférence Francophone sur l'Apprentissage Automatique (CAP)},
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.07}
+}
+
+@Article{belharbiICMLWSDL2015,
+  Title                    = {Learning Structured Output Dependencies Using Deep Neural Networks},
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  Journal                  = {Deep Learning Workshop in the 32nd International Conference on Machine Learning (ICML)},
+  Year                     = {2015},
+  Pllinks                  = {[PDF]:/publications/2015/belharbiDLWICML2015.pdf},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.07}
+}
+
+@Misc{sbelharbiNormasticMay2015,
+  Title                    = {Deep Neural Architectures for Structured Output Problems},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {Normastic, l’axe Données, Apprentissage, Connaissances. UFR des Science, Universté de Caen},
+  Month                    = {May},
+  Pllinks                  = {[Presentation]:/publications/2015/presentation-normastic-belharbi2015.pdf},
+  Year                     = {2015},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.13}
+}
+
+@Article{sbelharbiRFIA2016,
+  Title                    = {Pondération dynamique dans un cadre multi-tâche pour réseaux de neurones profonds},
+  Author                   = {Belharbi, Soufiane and Hérault, Romain and Chatelain, Clément and Adam, Sébastien},
+  Journal                  = {Reconnaissance des Formes et l'Intelligence Artificielle (RFIA) (Session spéciale "Apprentissage et vision")},
+  Year                     = {2016},
+  Pllinks                  = {[PDF]:/publications/2016/RFIA2016-belharbi.pdf; [Presentation]:/publications/2016/presentationRFIA2016-belharbi.pdf},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.02.07}
+}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 ExplicitGroup:International confs\;0\;belharbiCAP2015\;belharbiICMLW
+SDL2015\;;
+1 ExplicitGroup:Presentations fr\;0\;sbelharbiGDRISIOct2016\;;
+1 ExplicitGroup:Workshops\;0\;;
+1 ExplicitGroup:Journals\;0\;;
+1 ExplicitGroup:French confs\;0\;belharbiCAP2015\;sbelharbiRFIA2016\;;
+1 ExplicitGroup:Presentations Inter\;0\;belharbiLLaneuve2016\;;
+}
+

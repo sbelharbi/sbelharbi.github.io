@@ -1,0 +1,372 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+
+
+<h4 style="margin-bottom:0px;padding-top:10px;">International conferences</h4>
+<!-- Generated from JabRef by PubList by Truong Nghiem at 07:46 on 2017.02.13. -->
+<ul class="biblist">
+<!-- Item: belharbiESANN2016 -->
+<li ><p>
+Soufiane Belharbi, Romain Hérault, Clément Chatelain and Sébastien Adam,
+<br>&ldquo;<b>Deep multi-task learning with evolving weights</b>,&rdquo;
+in <i>European Symposium on Artificial Neural Networks (ESANN)</i>,
+
+
+
+
+2016.
+
+<br />
+<a href="javascript:toggleBibtex('belharbiESANN2016')">[BibTeX]</a>
+
+<a href="/publications/2016/ESANN2016-Belharbi.pdf">[PDF]</a> <a href="/publications/2016/presentation-ESANN2016-bleharbi.pdf"> [Presentation]</a> 
+</p>
+<div id="bib_belharbiESANN2016" class="bibtex noshow">
+<pre>
+@inproceedings{belharbiESANN2016,
+  author = {Belharbi, Soufiane and Hérault, Romain and Chatelain, Clément and Adam, Sébastien},
+  title = {Deep multi-task learning with evolving weights},
+  booktitle = {European Symposium on Artificial Neural Networks (ESANN)},
+  year = {2016}
+}
+</pre>
+</div>
+</li>
+</ul>
+
+<h4 style="margin-bottom:0px;padding-top:10px;">French conferences</h4>
+<!-- Generated from JabRef by PubList by Truong Nghiem at 10:40 on 2017.02.07. -->
+<ul class="biblist">
+<!-- Item: sbelharbiRFIA2016 -->
+<li ><p>
+Soufiane Belharbi, Romain Hérault, Clément Chatelain and Sébastien Adam,
+<br>&ldquo;<b>Pondération dynamique dans un cadre multi-tâche pour réseaux de neurones profonds</b>,&rdquo;
+<i>Reconnaissance  des Formes et  l'Intelligence Artificielle (RFIA) (Session spéciale "Apprentissage et vision")</i>,
+
+
+
+
+2016.
+
+<br />
+<a href="javascript:toggleBibtex('sbelharbiRFIA2016')">[BibTeX]</a>
+
+<a href="/publications/2016/RFIA2016_belharbi.pdf">[PDF]</a> <a href="/publications/2016/presentationRFIA2016_belharbi.pdf">
+[Presentation]</a> 
+</p>
+<div id="bib_sbelharbiRFIA2016" class="bibtex noshow">
+<pre>
+@article{sbelharbiRFIA2016,
+  author = {Belharbi, Soufiane and Hérault, Romain and Chatelain, Clément and Adam, Sébastien},
+  title = {Pondération dynamique dans un cadre multi-tâche pour réseaux de neurones profonds},
+  journal = {Reconnaissance  des Formes et  l'Intelligence Artificielle (RFIA) (Session spéciale "Apprentissage et vision")},
+  year = {2016}
+}
+</pre>
+</div>
+</li>
+</ul>
+
+<!-- Generated from JabRef by PubList by Truong Nghiem at 09:58 on 2017.02.07. -->
+<ul class="biblist">
+<!-- Item: belharbiCAP2015 -->
+<li ><p>
+Soufiane Belharbi, Clément Chatelain, Romain Hérault and Sébastien Adam,
+<br>&ldquo;<b>A Unified Neural Based Model For Structured Output Problems</b>,&rdquo;
+<i>Conférence Francophone sur l'Apprentissage Automatique (CAP)</i>,
+
+
+
+
+2015.
+
+<br />
+<a href="javascript:toggleBibtex('belharbiCAP2015')">[BibTeX]</a>
+
+<a href="/publications/2015/belharbiCAP2015.pdf">[PDF]</a> <a href="/publications/2015/belharbiPosterCAP2015.pdf">
+[Poster]</a> 
+</p>
+<div id="bib_belharbiCAP2015" class="bibtex noshow">
+<pre>
+@article{belharbiCAP2015,
+  author = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  title = {A Unified Neural Based Model For Structured Output Problems},
+  booktitle = {Conférence Francophone sur l'Apprentissage Automatique (CAP)},
+  journal = {Conférence Francophone sur l'Apprentissage Automatique (CAP)},
+  year = {2015}
+}
+</pre>
+</div>
+</li>
+</ul>
+<h4 style="margin-bottom:0px;padding-top:10px;">Workshops and posters</h4>
+<!-- Generated from JabRef by PubList by Truong Nghiem at 09:38 on 2017.02.07. -->
+<ul class="biblist">
+<!-- Item: belharbiICMLWSDL2015 -->
+<li ><p>
+Soufiane Belharbi, Clément Chatelain, Romain Hérault and Sébastien Adam,
+<br>&ldquo;<b>Learning Structured Output Dependencies Using Deep Neural Networks</b>,&rdquo;
+<i>Deep Learning Workshop in the 32nd International Conference on Machine Learning (ICML)</i>,
+
+
+
+
+2015.
+
+<br />
+<a href="javascript:toggleBibtex('belharbiICMLWSDL2015')">[BibTeX]</a>
+
+<a href="/publications/2015/belharbiDLWICML2015.pdf">[PDF]</a> 
+</p>
+<div id="bib_belharbiICMLWSDL2015" class="bibtex noshow">
+<pre>
+@article{belharbiICMLWSDL2015,
+  author = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  title = {Learning Structured Output Dependencies Using Deep Neural Networks},
+  journal = {Deep Learning Workshop in the 32nd International Conference on Machine Learning (ICML)},
+  year = {2015}
+}
+</pre>
+</div>
+</li>
+</ul>
+<h4 style="margin-bottom:0px;padding-top:10px;">International communications</h4>
+<!-- Generated from JabRef by PubList by Truong Nghiem at 08:02 on 2017.02.13. -->
+<ul class="biblist">
+<!-- Item: belharbiLLaneuve2016 -->
+<li ><p>
+Soufiane Belharbi, Clément Chatelain, Romain Hérault and Sébastien Adam,
+<br>&ldquo;<b>Deep Neural Networks and Structured Output Problems</b>,&rdquo;
+
+December
+2016.
+Image and Signal Processing Seminars, Université Catholique de Louvain.
+
+<br />
+<a href="javascript:toggleBibtex('belharbiLLaneuve2016')">[BibTeX]</a>
+<a href="http://sites.uclouvain.be/ispgroup/index.php/ISPS.ABS081216">[URL]</a>
+<a href="/publications/2016/presentation-bxl-louvain-laneuve-belharbi2016.pdf">[Presentation]</a> 
+</p>
+<div id="bib_belharbiLLaneuve2016" class="bibtex noshow">
+<pre>
+@misc{belharbiLLaneuve2016,
+  author = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  title = {Deep Neural Networks and Structured Output Problems},
+  year = {2016},
+  url = {http://sites.uclouvain.be/ispgroup/index.php/ISPS.ABS081216},
+  howpublished = {Image and Signal Processing Seminars, Université Catholique de Louvain}
+}
+</pre></div>
+</li>
+</ul>
+<h4 style="margin-bottom:0px;padding-top:10px;">French communications</h4>
+<!-- Generated from JabRef by PubList by Truong Nghiem at 08:02 on 2017.02.13. -->
+<ul class="biblist">
+<!-- Item: sbelharbiGDRISIOct2016 -->
+<li ><p>
+Soufiane Belharbi, Clément Chatelain, Romain Hérault and Sébastien Adam,
+<br>&ldquo;<b>Détection de la Coupe L3 par CNN et Transfert Learning</b>,&rdquo;
+
+October
+2016.
+GDR Information, Signal, Image et ViSion. Télécom ParisTech.
+
+<br />
+<a href="javascript:toggleBibtex('sbelharbiGDRISIOct2016')">[BibTeX]</a>
+<a href="http://gdr-isis.fr/index.php?page=reunion&idreunion=320">[URL]</a>
+<a href="/publications/2016/presentation-gdrisis-l3-belharbi2016.pdf">[Presentation]</a> 
+</p>
+<div id="bib_sbelharbiGDRISIOct2016" class="bibtex noshow">
+<pre>
+@misc{sbelharbiGDRISIOct2016,
+  author = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  title = {Détection de la Coupe L3 par CNN et Transfert Learning},
+  year = {2016},
+  url = {http://gdr-isis.fr/index.php?page=reunion&amp;idreunion=320},
+  howpublished = {GDR Information, Signal, Image et ViSion. Télécom ParisTech}
+}
+</pre></div>
+</li>
+</ul>
+
+<!-- Generated from JabRef by PubList by Truong Nghiem at 08:08 on 2017.02.13. -->
+<ul class="biblist">
+<!-- Item: sbelharbiNormasticJune2016 -->
+<li ><p>
+Soufiane Belharbi, Clément Chatelain, Romain Hérault and Sébastien Adam,
+<br>&ldquo;<b>Deep Multi-task Learning with Evolving Weights</b>,&rdquo;
+
+June
+2016.
+Normastic, Journée « Deep Learning » de l’axe Données, Apprentissage, Connaissances. UFR des Science, Universté de Caen.
+
+<br />
+<a href="javascript:toggleBibtex('sbelharbiNormasticJune2016')">[BibTeX]</a>
+<a href="http://www.normastic.fr/event/journee-de-laxe-donnees-apprentissage-connaissances/">[URL]</a>
+<a href="/publications/2016/presentation-normastic-belharbi2016.pdf">[Presentation]</a> 
+</p>
+<div id="bib_sbelharbiNormasticJune2016" class="bibtex noshow">
+<pre>
+@misc{sbelharbiNormasticJune2016,
+  author = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  title = {Deep multi-task learning with evolving weights},
+  year = {2016},
+  url = {http://www.normastic.fr/event/journee-de-laxe-donnees-apprentissage-connaissances/},
+  howpublished = {Normastic, Journée « Deep Learning » de l’axe Données, Apprentissage, Connaissances. UFR des Science, Universté de Caen}
+}
+</pre></div>
+</li>
+</ul>
+
+<!-- Generated from JabRef by PubList by Truong Nghiem at 08:12 on 2017.02.13. -->
+<ul class="biblist">
+<!-- Item: sbelharbiJDD2016 -->
+<li ><p>
+Soufiane Belharbi, Clément Chatelain, Romain Hérault and Sébastien Adam,
+<br>&ldquo;<b>Deep Multi-task Learning with Evolving Weights</b>,&rdquo;
+
+June
+2016.
+Journée Des Doctorants (JDD). Université du Havre.
+
+<br />
+<a href="javascript:toggleBibtex('sbelharbiJDD2016')">[BibTeX]</a>
+
+<a href="/publications/2016/presentation-jdd-belharbi2016.pdf">[Presentation]</a> 
+</p>
+<div id="bib_sbelharbiJDD2016" class="bibtex noshow">
+<pre>
+@misc{sbelharbiJDD2016,
+  author = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  title = {Deep Multi-task Learning with Evolving Weights},
+  year = {2016},
+  howpublished = {Journée Des Doctorants (JDD). Université du Havre}
+}
+</pre></div>
+</li>
+</ul>
+
+<!-- Generated from JabRef by PubList by Truong Nghiem at 08:19 on 2017.02.13. -->
+<ul class="biblist">
+<!-- Item: sbelharbiNormasticMay2015 -->
+<li ><p>
+Soufiane Belharbi, Clément Chatelain, Romain Hérault and Sébastien Adam,
+<br>&ldquo;<b>Deep Neural Architectures for Structured Output Problems</b>,&rdquo;
+
+May
+2015.
+Normastic, l’axe Données, Apprentissage, Connaissances. UFR des Science, Universté de Caen.
+
+<br />
+<a href="javascript:toggleBibtex('sbelharbiNormasticMay2015')">[BibTeX]</a>
+
+<a href="/publications/2015/presentation-normastic-belharbi2015.pdf">[Presentation]</a> 
+</p>
+<div id="bib_sbelharbiNormasticMay2015" class="bibtex noshow">
+<pre>
+@misc{sbelharbiNormasticMay2015,
+  author = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  title = {Deep Neural Architectures for Structured Output Problems},
+  year = {2015},
+  howpublished = {Normastic, l’axe Données, Apprentissage, Connaissances. UFR des Science, Universté de Caen}
+}
+</pre></div>
+</li>
+</ul>
+
+<!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
