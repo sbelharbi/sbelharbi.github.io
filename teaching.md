@@ -9,7 +9,8 @@ comments: false
   * *Deep learning* (ASI 4, graduate students) with 
   [**Romain Hérault**](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/). (**upcoming**)
   * *Introduction to computational data analysis* (ASI 3, graduate students)
-    with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/).
+    with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/) and 
+	[Samia Ainouz](http://pagesperso.litislab.fr/sainouz/).
   * *Updating in Maths* (remise à niveau): Linear algebra ([problems](/otherdocs/teaching2016-2017/anum.pdf),
   [problems+solutions](/otherdocs/teaching2016-2017/anum-sol.pdf)), 
   real analysis and complex numbers
@@ -24,6 +25,7 @@ comments: false
     with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/).
   * *Algorithmics and advanced C programming* (Algorithmique avancée et
   programmation C, ASI 3, graduate students) with 
-  [**Nicolas Delestre**](http://asi.insa-rouen.fr/enseignants/~delestre/).
+  [**Nicolas Delestre**](http://asi.insa-rouen.fr/enseignants/~delestre/) and [Géraldine Del Mondo
+Géraldine Del Mondo](https://sites.google.com/site/geraldinedelmondo/).
   * *Algorithmics and programming* (I3 - Algorithmique et programmation,
   STPI2, undergraduate students) with **Nicolas Malandain**.
