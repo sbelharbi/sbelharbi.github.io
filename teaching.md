@@ -15,7 +15,7 @@ comments: false
   real analysis and complex numbers
   ([problems](/otherdocs/teaching2016-2017/anar-ncomplx.pdf), 
   [problems+solutions](/otherdocs/teaching2016-2017/anar-ncomplx-sol.pdf))
-    with [**Gilles Gasso**](http://asi.insa-rouen.fr/enseignants/~gasso/) 
+    with [**Gilles Gasso**](http://asi.insa-rouen.fr/enseignants/~gasso/), 
 	[**Benoît Gaüzère**](http://pagesperso.litislab.fr/~bgauzere/#home), 
 	[**Lorette Noiret**](http://lmi.insa-rouen.fr/membres/12-membres/collaborateurs-externes-associes/71-noiret.html) and
 	[**Clément Chatelain**](http://pagesperso.litislab.fr/cchatelain/).
