@@ -20,5 +20,5 @@ working on *deep learning* and *structured output problems*.
 I am intrigued and particularly interested in **learning representations in deep neural networks**.
 
 ## News
-* "*Deep in France*", kick off. March, 1st, 2017. LIP6, Paris.
+* ~~"*Deep in France*", kick off. March, 1st, 2017. LIP6, Paris.~~
 
