@@ -7,7 +7,7 @@ image:
   feature: rouen2.jpg
 ---
 
-My name is Soufiane Belharbi. I am a 3rd year PhD student at the *Institut national
+My name is Soufiane Belharbi. I am a 3<sup>rd</sup> year PhD student at the *Institut national
 des sciences appliquées de Rouen* ([INSA of Rouen](http://www.insa-rouen.fr)) in
 [LITIS lab](http://www.litislab.fr/),
 [Apprentissage (Learning) team](http://www.litislab.fr/equipe/docapp/) (started
