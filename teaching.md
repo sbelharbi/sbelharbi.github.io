@@ -6,7 +6,7 @@ tags: [teaching]
 comments: false
 ---
 * **2016-2017**
-  * *Deep learning* (Cours: Méthodes avancées de fouille de données et d'apprentissage (DM2), ASI 4, graduate students) with 
+  * *Deep learning* (Cours + TP: Méthodes avancées de fouille de données et d'apprentissage (DM2), ASI 4, graduate students) with 
   [**Romain Hérault**](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/).
   * *Introduction to computational data analysis* (TP: M8, STPI 2, undergraduate students)
     with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/) and 
