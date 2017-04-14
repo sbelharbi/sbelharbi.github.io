@@ -6,11 +6,11 @@ tags: [teaching]
 comments: false
 ---
 * **2016-2017**
-  * *Deep learning* (ASI 4, graduate students) with 
-  [**Romain Hérault**](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/). (**ongoing**)
-  * *Introduction to computational data analysis* (M8, ASI 3, graduate students)
+  * *Deep learning* (DM2, ASI 4, graduate students) with 
+  [**Romain Hérault**](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/).
+  * *Introduction to computational data analysis* (M8, STPI 2, undergraduate students)
     with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/). (**ongoing**)
-  * *Updating in Maths* (remise à niveau): Linear algebra ([problems](/otherdocs/teaching2016-2017/anum.pdf),
+  * *Updating in Maths* (remise à niveau Maths, ASI 3, graduate students): Linear algebra ([problems](/otherdocs/teaching2016-2017/anum.pdf),
   [problems+solutions](/otherdocs/teaching2016-2017/anum-sol.pdf)), 
   real analysis and complex numbers
   ([problems](/otherdocs/teaching2016-2017/anar-ncomplx.pdf), 
@@ -20,7 +20,7 @@ comments: false
 	[**Lorette Noiret**](http://lmi.insa-rouen.fr/membres/12-membres/collaborateurs-externes-associes/71-noiret.html) and
 	[**Clément Chatelain**](http://pagesperso.litislab.fr/cchatelain/).
 * **2015-2016**
-  * *Introduction to computational data analysis* (M8, ASI 3, graduate students)
+  * *Introduction to computational data analysis* (M8, STPI 2, undergraduate students)
     with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/)  and 
 	[**Samia Ainouz**](http://pagesperso.litislab.fr/sainouz/).
   * *Algorithmics and advanced C programming* (Algorithmique avancée et
@@ -28,4 +28,4 @@ comments: false
   [**Nicolas Delestre**](http://asi.insa-rouen.fr/enseignants/~delestre/) and 
   [**Géraldine Del Mondo**](https://sites.google.com/site/geraldinedelmondo/).
   * *Algorithmics and programming* (I3 - Algorithmique et programmation,
-  STPI2, undergraduate students) with **Nicolas Malandain**.
+  STPI 2, undergraduate students) with **Nicolas Malandain**.
