@@ -9,7 +9,8 @@ comments: false
   * *Deep learning* (DM2, ASI 4, graduate students) with 
   [**Romain Hérault**](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/).
   * *Introduction to computational data analysis* (M8, STPI 2, undergraduate students)
-    with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/). (**ongoing**)
+    with [**Stéphane Canu**](http://asi.insa-rouen.fr/enseignants/~scanu/) and 
+	[**Samia Ainouz**](http://pagesperso.litislab.fr/sainouz/). (**ongoing**)
   * *Updating in Maths* (remise à niveau Maths, ASI 3, graduate students): Linear algebra ([problems](/otherdocs/teaching2016-2017/anum.pdf),
   [problems+solutions](/otherdocs/teaching2016-2017/anum-sol.pdf)), 
   real analysis and complex numbers
