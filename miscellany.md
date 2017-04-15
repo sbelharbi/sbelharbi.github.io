@@ -11,7 +11,7 @@ comments: false
 * PhD students representative at the **Laboratory Committee** (Conseil du
   laboratoire LITIS) (2016-2017).
 * Secretary and webmaster of the association [**ADDED**](https://sites.google.com/prod/view/association-added) (Association des Doctorants et Docteurs des
-  Écoles Doctorales - PSIME/MIIS, Rouen) (2016-2017).
+  Écoles Doctorales - PSIME/MIIS, Rouen & Le Havre) (2016-2017).
 * Participated in the organization of the PhD Day (La Journée Des Doctorants,
   **JDD**) at the Havre University (2016).
 
