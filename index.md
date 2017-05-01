@@ -20,8 +20,8 @@ working on *deep learning* and *structured output problems*.
 I am intrigued and particularly interested in **learning representations in deep neural networks**.
 
 ## News
-* [**ICLR 2017**](http://www.iclr.cc/doku.php?id=ICLR2017:main): 5<sup>th</sup> International Conference on Learning
-  Representations.
+* ~~[**ICLR 2017**](http://www.iclr.cc/doku.php?id=ICLR2017:main): 5<sup>th</sup> International Conference on Learning
+  Representations.~~
   **Apr 24-26, 2017**. Palais des Congrès Neptune, Toulon, France.
 * ~~"**Deep in France**", kick off. March, 1st, 2017. LIP6, Paris.~~
 
