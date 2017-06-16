@@ -16,6 +16,37 @@
   Timestamp                = {2017.02.05}
 }
 
+@Misc{belharbiUCANiceDLRL2017,
+  Title                    = {Representation Learning},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {UCA Deep Learning School, Nice},
+  Institution              = {Université Côte D’Azur, Sophia Antipolis campus},
+  Month                    = {12-15 June},
+  Pllinks                  = {[Presentation]:/publications/2017/presentation-Representation-Learning-UCA-Deep-Learning-School-2017-Nice.pdf},
+  Year                     = {2017},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.06.16},
+  Url                      = {http://univ-cotedazur.fr/events/deep-learning-school}
+}
+
+@Misc{belharbiUCANiceDLTL2017,
+  Title                    = {Détection de la coupe L3 par CNN et transfert
+learning},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {UCA Deep Learning School, Nice},
+  Institution              = {Université Côte D’Azur, Sophia Antipolis campus},
+  Month                    = {12-15 June},
+  Pllinks                  = {[Presentation]:/publications/2017/presentation-l3-detection-UCA-Deep-Learning-School-2017-Nice.pdf},
+  Year                     = {2017},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.06.16},
+  Url                      = {http://univ-cotedazur.fr/events/deep-learning-school}
+}
+
 @Misc{belharbiLLaneuve2016,
   Title                    = {Deep Neural Networks and Structured Output Problems},
 
@@ -126,7 +157,7 @@
   Year                     = {2017},
   Pllinks                  = {[URL]:http://www.computersinbiologyandmedicine.com/article/S0010-4825(17)30140-3/abstract},
 
-  Owner                    = {brian},
+  Owner                    = {Soufiane},
   Timestamp                = {2017.05.22}
 }
 
@@ -136,7 +167,8 @@
 0 AllEntriesGroup:;
 1 ExplicitGroup:International confs\;0\;belharbiCAP2015\;belharbiICMLW
 SDL2015\;;
-1 ExplicitGroup:Presentations fr\;0\;sbelharbiGDRISIOct2016\;;
+1 ExplicitGroup:Presentations fr\;0\;belharbiUCANiceDLRL2017\;belharbi
+UCANiceDLTL2017\;sbelharbiGDRISIOct2016\;;
 1 ExplicitGroup:Workshops\;0\;;
 1 ExplicitGroup:Journals\;0\;;
 1 ExplicitGroup:French confs\;0\;belharbiCAP2015\;sbelharbiRFIA2016\;;
