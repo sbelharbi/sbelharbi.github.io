@@ -7,7 +7,7 @@ comments: false
 ---
 * Currently working on:
   [**Guide des Doctorants**](https://wiki.litislab.fr/doku.php?id=doctorants:doctorants) (2017).
-* Initiator and webmaster of [**Doctorants Actifs**](https://sites.google.com/view/doctorants-actifs).
+* Initiator and webmaster of [**Doctorants Actifs**](http://doctorants-actifs.fr/index-en/).
 * PhD students representative at the **Laboratory Committee** (Conseil du
   laboratoire LITIS) (2016-2017).
 * Secretary and webmaster of the association [**ADDED**](https://sites.google.com/prod/view/association-added) (Association des Doctorants et Docteurs des
