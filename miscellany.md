@@ -10,7 +10,7 @@ comments: false
 * Initiator and webmaster of [**Doctorants Actifs**](http://doctorants-actifs.fr/index-en/).
 * PhD students representative at the **Laboratory Committee** (Conseil du
   laboratoire LITIS) (2016-2017).
-* Secretary and webmaster of the association [**ADDED**](https://sites.google.com/prod/view/association-added) (Association des Doctorants et Docteurs des
+* Secretary and webmaster of the association [**ADDED**](http://association-added.fr/index-en/) (Association des Doctorants et Docteurs des
   Écoles Doctorales - PSIME/MIIS, Rouen & Le Havre) (2016-2017).
 * Participated in the organization of the PhD Days ([**Les Journées Des Doctorants**](http://association-added.fr/jdd2017-en/),
   **JDD**) at Rouen University (2017).
