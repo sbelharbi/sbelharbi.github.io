@@ -19,7 +19,14 @@ working on *deep learning* and *structured output problems*.
 
 I am intrigued and particularly interested in **learning representations in deep neural networks**.
 
-<span style="color:red"> I am looking for a postdoc position in deep learning domain starting Oct. 1<sup>st</sup>, 2017. Please, contact me for my CV: soufiane[dot]belharbi[at]insa-rouen[dot]fr.</span>
+## Research Interests
+* Machine Learning
+* Deep Learning
+* Representation Learning
+* Regularization
+
+
+<span style="color:red"> **I am looking for a postdoc position in deep learning domain starting Oct. 1<sup>st</sup>, 2017. Please, contact me for my CV: soufiane[dot]belharbi[at]insa-rouen[dot]fr.**</span>
 
 ## News
 * Sept. 2017: New [Arxiv](https://arxiv.org/abs/1709.01867) submission.
