@@ -71,6 +71,21 @@
   Timestamp                = {2017.09.11}
 }
 
+@Misc{sbelharbiLitisSept2017,
+  Title                    = {Neural Networks Regularization Through Representation Learning},
+
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
+  HowPublished             = {Japanese-French workshop on Optimization for machine learning, Riken  and LITIS labs},
+  Institution              = {INSA de Rouen, France},
+  Month                    = {Sept, 25th},
+  Pllinks                  = {[Presentation]:/publications/2017/presentation-Neural-networks-regularization-through-representation-learning-Japan-France-workshop-opimization-ml-insa-de-rouen.pdf},
+  Year                     = {2017},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.09.25},
+  Url                      = {https://www.linkedin.com/pulse/japanese-french-workshop-optimization-machine-riken-litis-belharbi}
+}
+
 @Misc{belharbiLLaneuve2016,
   Title                    = {Deep Neural Networks and Structured Output Problems},
 
@@ -192,7 +207,7 @@
 1 ExplicitGroup:International confs\;0\;belharbiCAP2015\;belharbiICMLW
 SDL2015\;;
 1 ExplicitGroup:Presentations fr\;0\;belharbiUCANiceDLRL2017\;belharbi
-UCANiceDLTL2017\;sbelharbiGDRISIOct2016\;;
+UCANiceDLTL2017\;sbelharbiGDRISIOct2016\;sbelharbiLitisSept2017\;;
 1 ExplicitGroup:Workshops\;0\;;
 1 ExplicitGroup:Journals\;0\;;
 1 ExplicitGroup:French confs\;0\;belharbiCAP2015\;sbelharbiRFIA2016\;;
