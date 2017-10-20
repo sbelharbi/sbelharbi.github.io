@@ -27,3 +27,5 @@ Feel free to use this them.
 bundle exec jekyll serve
 ```
 Then, open your browser at the url: [*http://127.0.0.1:4000/*](http://127.0.0.1:4000/).
+
+[comment]: <> (how to change publist commands: https://github.com/jppazmin/bibsonomy-social-references/tree/master/bibsonomy/bibsonomy-layout/src/main/java/org/bibsonomy/layout/jabref/publist-en)
