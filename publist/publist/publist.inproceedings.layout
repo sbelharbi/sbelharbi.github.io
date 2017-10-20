@@ -1,7 +1,7 @@
 <!-- Item: \format{\bibtexkey} -->
-<li \begin{plstyle}\plstyle\end{plstyle}><p>
-\begin{author}\format[AuthorFirstFirstCommas,HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\author},\end{author}
-<br>&ldquo;<b>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\title}</b>,&rdquo;
+<li \begin{plstyle}\plstyle\end{plstyle}>
+\begin{author}\format[AuthorFirstAbbrLastCommas,HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\author},\end{author}
+&ldquo;<b><em>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\title}</em></b>&rdquo;,
 \begin{booktitle}in <i>\format[HTMLChars,RemoveTilde,RemoveBrackets,RemoveLatexCommands]{\booktitle}</i>,\end{booktitle}
 \begin{volume}vol. \volume,\end{volume}
 \begin{number}no. \number,\end{number}
@@ -9,11 +9,11 @@
 \begin{month}\format[HTMLChars,RemoveBrackets]{\month}\end{month}
 \format[HTMLChars,RemoveBrackets]{\year}.
 \begin{note}\format[HTMLChars,RemoveLatexCommands]{\note}.\end{note}
-<br />
+
 <a href="javascript:toggleBibtex('\format{\bibtexkey}')">[BibTeX]</a>
 \begin{url}<a href="\format{\url}">[URL]</a>\end{url}
 \begin{pllinks}\format[Replace("([a-zA-Z]+)://,$1//////"),WrapFileLinks(<a href="\p">\d</a> ),Replace("//////,://")]{\pllinks}\end{pllinks}
-</p>
+
 <div id="bib_\format{\bibtexkey}" class="bibtex noshow">
 <pre>
 @\format[ToLowerCase]{\bibtextype}{\bibtexkey,\begin{author}
