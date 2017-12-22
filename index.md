@@ -29,6 +29,7 @@ I am intrigued and particularly interested in **learning representations in deep
 <span style="color:red"> **I am currently looking for a postdoc position in deep learning domain. Please, contact me for my CV: soufiane[dot]belharbi[at]insa-rouen[dot]fr.**</span>
 
 ## News
+* Dec. 2017: New published journal In Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a> 
 * Nov. 06<sup>th</sup>, 2017: End of my term as a member of the [**ADDED association**](http://association-added.fr/index-en/), after two years. But, I am still the webmaster for a while.
 * Oct. 05<sup>th</sup> & 06<sup>th</sup>, 2017: [**France is AI**](http://franceisai.com/conference/) conference, 2<sup>nd</sup> ed., Paris.
 * Sept. 25<sup>th</sup>, 2017: **Japanese-French workshop on optimization for machine learning** ([Riken](http://www.riken.jp/en/) & [LITIS](http://www.litislab.eu/)) at
