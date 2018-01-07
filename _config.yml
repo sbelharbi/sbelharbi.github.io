@@ -1,6 +1,7 @@
 title:            Soufiane Belharbi's <br > Academic Site
 mytitle:          Soufiane Belharbi's Academic Site
 description:      Welcome to my website.
+yearstart: 2017
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //sbelharbi.github.io
 #http://localhost:5000
