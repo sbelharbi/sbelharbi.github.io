@@ -46,19 +46,6 @@
   Url                      = {http://univ-cotedazur.fr/events/deep-learning-school}
 }
 
-@Unpublished{sbelharbiarxivapr2017,
-  Title                    = {Multi-task Learning for Structured Output Prediction},
-  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
-  Note                     = {Under review},
-
-  Month                    = {April},
-  Pllinks                  = {[ArXiv]:https://arxiv.org/abs/1504.07550;[Code]:https://github.com/sbelharbi/structured-output-ae},
-  Year                     = {2017},
-
-  Owner                    = {Soufiane},
-  Timestamp                = {2017.09.11}
-}
-
 @Unpublished{sbelharbiarxivsep2017,
   Title                    = {Neural Networks Regularization Through Class-wise Invariant Representation Learning},
   Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien},
@@ -179,6 +166,32 @@
   Timestamp                = {2017.02.13}
 }
 
+@Article{sbelharbiCBM2017,
+  Title                    = {Spotting L3 slice in CT scans using deep convolutional network and transfer learning},
+  Author                   = {Belharbi, Soufiane and Clément, Chatelain and Romain, Hérault and Sébastien, Adam and Sébastien, Thureau and Mathieu, Chastan and Romain, Modzelewski},
+  Journal                  = {Computers in Biology and Medicine},
+  Year                     = {2017},
+  Pages                    = {95-103},
+  Pllinks                  = {[URL]:http://www.sciencedirect.com/science/article/pii/S0010482517301403?via%3Dihub},
+  Volume                   = {87},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.05.22}
+}
+
+@Article{sbelharbiarneurocomputing2017,
+  Title                    = {Deep Neural Networks Regularization for Structured Output Prediction},
+  Author                   = {Belharbi, Soufiane and Hérault, Romain and Chatelain, Clément and Adam, Sébastien},
+  Journal                  = {Neurocomputing},
+  Year                     = {2018},
+  Pages                    = {169-177},
+  Pllinks                  = {[ArXiv]:https://arxiv.org/abs/1504.07550;[Code]:https://github.com/sbelharbi/structured-output-ae},
+  Volume                   = {281C},
+
+  Owner                    = {Soufiane},
+  Timestamp                = {2017.09.11}
+}
+
 @Article{sbelharbiRFIA2016,
   Title                    = {Pondération dynamique dans un cadre multi-tâche pour réseaux de neurones profonds},
   Author                   = {Belharbi, Soufiane and Hérault, Romain and Chatelain, Clément and Adam, Sébastien},
@@ -188,19 +201,6 @@
 
   Owner                    = {Soufiane},
   Timestamp                = {2017.02.07}
-}
-
-@Article{sbelharbiCBM2017,
-  Title                    = {Spotting L3 slice in CT scans using deep convolutional network and transfer learning},
-  Author                   = {Soufiane, Belharbi and Chatelain, Clément and Hérault, Romain and Adam, Sébastien and Thureau, Sébastien and Chastan, Mathieu and Modzelewski, Romain},
-  Journal                  = {Computers in Biology and Medicine},
-  Year                     = {2017},
-  Pages                    = {95-103},
-  Pllinks                  = {[URL]:http://www.sciencedirect.com/science/article/pii/S0010482517301403?via%3Dihub},
-  Volume                   = {87},
-
-  Owner                    = {Soufiane},
-  Timestamp                = {2017.05.22}
 }
 
 @comment{jabref-meta: groupsversion:3;}
@@ -215,7 +215,7 @@ UCANiceDLTL2017\;sbelharbiGDRISIOct2016\;sbelharbiLitisSept2017\;;
 1 ExplicitGroup:Journals\;0\;;
 1 ExplicitGroup:French confs\;0\;belharbiCAP2015\;sbelharbiRFIA2016\;;
 1 ExplicitGroup:Presentations Inter\;0\;belharbiLLaneuve2016\;;
-1 ExplicitGroup:Arxiv\;0\;sbelharbiarxivapr2017\;sbelharbiarxivsep2017
-\;;
+1 ExplicitGroup:Arxiv\;0\;sbelharbiarneurocomputing2017\;sbelharbiarxi
+vsep2017\;;
 }
 
