@@ -26,8 +26,6 @@ I am intrigued and particularly interested in **learning representations in deep
 * Regularization
 
 
-<span style="color:red"> **I am currently looking for a postdoc position in deep learning domain. Please, contact me for my CV: soufiane[dot]belharbi[at]insa-rouen[dot]fr.**</span>
-
 ## News
 * Feb. 26<sup>th</sup>, 2018: End of my term as a PhD students representative at the [**LITIS lab Council**](http://www.litislab.eu/), after two years.
 * Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a> 
