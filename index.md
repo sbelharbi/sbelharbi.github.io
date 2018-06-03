@@ -7,7 +7,7 @@ image:
   feature: rouen2.jpg
 ---
 
-My name is Soufiane Belharbi. I am a 3<sup>rd</sup> year PhD student at the *Institut National
+My name is Soufiane Belharbi. I am a PhD candidate at the *Institut National
 des Sciences Appliquées de Rouen* ([INSA of Rouen](http://www.insa-rouen.fr)) in
 [LITIS lab](http://www.litislab.fr/),
 [Apprentissage (Learning) team](http://www.litislab.fr/equipe/docapp/) (started
@@ -27,6 +27,7 @@ I am intrigued and particularly interested in **learning representations in deep
 
 
 ## News
+* Volunteer at the upcoming **CAp conference** (Conférence sur l'Apprentissage auttomatique) 20-22 June at Rouen, France ([**cap2018.litislab.fr**](http://cap2018.litislab.fr/).
 * Feb. 26<sup>th</sup>, 2018: End of my term as a PhD students representative at the [**LITIS lab Council**](http://www.litislab.eu/), after two years.
 * Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a> 
 * Nov. 06<sup>th</sup>, 2017: End of my term as a member of the [**ADDED association**](http://association-added.fr/index-en/), after two years. But, I am still the webmaster for a while.
