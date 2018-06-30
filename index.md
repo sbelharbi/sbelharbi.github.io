@@ -8,7 +8,7 @@ image:
 ---
 
 My name is Soufiane Belharbi. I am a PhD candidate at the *Institut National
-des Sciences Appliquées de Rouen* ([INSA of Rouen](http://www.insa-rouen.fr)) in
+des Sciences Appliquées de Rouen Normandie* ([INSA Rouen Normandie](http://www.insa-rouen.fr/en)) in
 [LITIS lab](http://www.litislab.fr/),
 [Apprentissage (Learning) team](http://www.litislab.fr/equipe/docapp/) (started
 at 2014). I
