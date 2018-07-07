@@ -27,7 +27,7 @@ I am intrigued and particularly interested in **learning representations in deep
 
 
 ## News
-* Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA de Rouen.
+* Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie.
 * Volunteer at the upcoming **CAp conference** (Conférence sur l'Apprentissage automatique) June 20<sup>th</sup>-22<sup>th</sup> at Rouen, France ([**cap2018.litislab.fr**](http://cap2018.litislab.fr/)).
 * Feb. 26<sup>th</sup>, 2018: End of my term as a PhD students representative at the [**LITIS lab Council**](http://www.litislab.eu/), after two years.
 * Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a> 
