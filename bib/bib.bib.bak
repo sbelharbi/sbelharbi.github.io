@@ -168,11 +168,11 @@
 
 @Article{sbelharbiCBM2017,
   Title                    = {Spotting L3 slice in CT scans using deep convolutional network and transfer learning},
-  Author                   = {Belharbi, Soufiane and Clément, Chatelain and Romain, Hérault and Sébastien, Adam and Sébastien, Thureau and Mathieu, Chastan and Romain, Modzelewski},
+  Author                   = {Belharbi, Soufiane and Chatelain, Clément and Hérault, Romain and Adam, Sébastien and Thureau, Sébastien and Chastan, Mathieu and Modzelewski, Romain},
   Journal                  = {Computers in Biology and Medicine},
   Year                     = {2017},
   Pages                    = {95-103},
-  Pllinks                  = {[URL]:http://www.sciencedirect.com/science/article/pii/S0010482517301403?via%3Dihub},
+  Pllinks                  = {[URL]:http://www.sciencedirect.com/science/article/pii/S0010482517301403?via%3Dihub;[Paris-Normandie]: http://www.paris-normandie.fr/actualites/societe/le-centre-becquerel-a-rouen-prepare-la-medecine-du-futur-LG12146951;["BodyComp.AI” 2017 French Innovative Unicancer Prize]: http://www.unicancer.fr/sites/default/files/actualite/SOUS_EMBARGO_BROCHURE_PRIX_INNOVATION_UNICANCER_2017.pdf;},
   Volume                   = {87},
 
   Owner                    = {Soufiane},
