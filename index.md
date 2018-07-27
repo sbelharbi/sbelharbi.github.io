@@ -29,7 +29,7 @@ I am intrigued and particularly interested in **learning representations in deep
 
 ## News
 * Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie. <a href="javascript:toggleBibtex('sbelharbiphd2018')">[BibTeX]</a>
-<a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
+<a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
 <div id="bib_sbelharbiphd2018" class="bibtex noshow">
 <pre>
 @phdthesis{sbelharbiphd2018,
@@ -45,7 +45,7 @@ I am intrigued and particularly interested in **learning representations in deep
 </div>
 * Volunteer at the upcoming **CAp conference** (Conférence sur l'Apprentissage automatique) June 20<sup>th</sup>-22<sup>th</sup> at Rouen, France ([**cap2018.litislab.fr**](http://cap2018.litislab.fr/)).
 * Feb. 26<sup>th</sup>, 2018: End of my term as a PhD students representative at the [**LITIS lab Council**](http://www.litislab.eu/), after two years.
-* Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a> 
+* Dec. 2017: New published journal in Neurocomputing: [**Deep Neural Networks Regularization for Structured Output Prediction**](https://www.sciencedirect.com/science/article/pii/S0925231217318295). <a href="https://arxiv.org/abs/1504.07550">[ArXiv]</a> <a href="https://github.com/sbelharbi/structured-output-ae">[Code]</a>
 * Nov. 06<sup>th</sup>, 2017: End of my term as a member of the [**ADDED association**](http://association-added.fr/index-en/), after two years. But, I am still the webmaster for a while.
 * Oct. 05<sup>th</sup> & 06<sup>th</sup>, 2017: [**France is AI**](http://franceisai.com/conference/) conference, 2<sup>nd</sup> ed., Paris.
 * Sept. 25<sup>th</sup>, 2017: **Japanese-French workshop on optimization for machine learning** ([Riken](http://www.riken.jp/en/) & [LITIS](http://www.litislab.eu/)) at
@@ -58,4 +58,3 @@ INSA de Rouen. Organized by [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sug
   Representations.
   **Apr 24-26, 2017**. Palais des Congrès Neptune, Toulon, France.
 * "**Deep in France**", kick off. March, 1st, 2017. LIP6, Paris.
-
