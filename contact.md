@@ -6,12 +6,12 @@ tags: [contact]
 comments: false
 ---
 
-Avenue de l'Université
+1100, rue Notre-Dame Ouest
 
-BP 8-76801 Saint-Étienne du Rouvray Cedex, France
+Montréal (Qc) H3C 1K3
+<br/>
+<br/>
 
-**Office**: BO-AR1-05
+**Office**: A-3600
 
-**Phone**: +33 (0)2 32 95 99 04
-
-**Email**: soufiane[dot]belharbi[at]insa-rouen[dot]fr
+**Email**: <img src="{{ site.url }}/images/{{ site.owner.email-img }}" alt="email">
