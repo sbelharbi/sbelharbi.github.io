@@ -208,7 +208,7 @@
   note        = {Supervisor: Sébastien Adam, Advisors: Clément Chatelain, Romain Hérault},
   location    = {Rouen, France},
   month       = {7},
-  pllinks     = {[ArXiv]:https://arxiv.org/abs/1807.05292;[Presentation]:/publications/2018/presentation-phd-defense-2018.pdf},
+  pllinks     = {[ArXiv]:https://arxiv.org/abs/1807.05292;[Presentation]:/publications/2018/presentation-phd-defense-2018.pdf;[HAL-Thèse]:https://tel.archives-ouvertes.fr/tel-01835035},
   address     = {INSA Rouen Normandie, Avenue de l’Université, BP 8-76801 Saint-Étienne du Rouvray Cedex, France},
   owner       = {Soufiane Belharbi},
 }

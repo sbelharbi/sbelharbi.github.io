@@ -7,27 +7,44 @@ image:
   feature: rouen2.jpg
 ---
 
-My name is Soufiane Belharbi. I am a PhD candidate at the *Institut National
-des Sciences Appliquées de Rouen Normandie* ([INSA Rouen Normandie](http://www.insa-rouen.fr/en)) in
-[LITIS lab](http://www.litislab.fr/),
-[Apprentissage (Learning) team](http://www.litislab.fr/equipe/docapp/) (started
-at 2014). I
-am supervised by [Sébastien Adam](http://pagesperso.litislab.fr/sebadam/)
-(director), [Clément Chatelain](http://pagesperso.litislab.fr/cchatelain/) and
-[Romain Hérault](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/). I am
-working on *deep learning* and *structured output problems*.
+My name is Soufiane Belharbi. I am currently a post-doctoral research fellow at [le Laboratoire d’imagerie, de vision et d’intelligence artificielle](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) (LIVIA lab) at [l'École de technologie supérieure](https://www.etsmtl.ca/) (ÉTS) in collaboration with [McGill university's Rosalind & Morris Goodman Cancer Research Centre](https://mcgillgcrc.com/) (GCRC). I am working with Profs. [Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on deep learning models for weakly supervised learning scenarios (semi-supervised learning, multi-instance learning, transfer learning) applied to medical imaging.
+<br/>
+<br/>
 
-I am intrigued and particularly interested in **learning representations in deep neural networks**.
+I completed my PhD in computer science at the [Institut National des Sciences Appliquées de Rouen Normandie](http://www.insa-rouen.fr/en) (INSA Rouen Normandie) in
+[LITIS lab](http://www.litislab.fr/),
+[Apprentissage (Learning) team](http://www.litislab.fr/equipe/docapp/) (Oct.
+2014-Jul.2018). I was
+supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (director), [Clément Chatelain](http://pagesperso.litislab.fr/cchatelain/), and
+[Romain Hérault](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/). During my PhD, I conducted research on the regularization of neural networks through representation learning with particular focus on learning scenarios where only few training samples are available. <a href="javascript:toggleBibtex('sbelharbiphd2018')">[BibTeX]</a>
+<a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
+<div id="bib_sbelharbiphd2018" class="bibtex noshow">
+<pre>
+@phdthesis{sbelharbiphd2018,
+  author = {Soufiane Belharbi},
+  title = {Neural Networks Regularization Through Representation Learning},
+  school = {Normandie Université, INSA Rouen Normandie, LITIS laboratory},
+  year = {2018},
+  pages = {196},
+  note = {Supervisor: Sébastien Adam, Advisors: Clément Chatelain, Romain Hérault},
+  url = {https://arxiv.org/abs/1807.05292}
+}
+</pre>
+</div>
+
+I am intrigued and particularly interested in **representation learning in neural networks**.
 
 ## Research Interests
 * Machine Learning
 * Deep Learning
 * Representation Learning
 * Regularization
+* Weakly supervised learning: semi-supervised/multi-instance/transfer learning
 
 
 
 ## News
+* Jul. 25<sup>th</sup>, 2018: I joined [LIVIA lab](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) at [l'ÉTS](https://www.etsmtl.ca/) in collaboration with [McGill's GCRC lab](https://mcgillgcrc.com/).
 * Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie. <a href="javascript:toggleBibtex('sbelharbiphd2018')">[BibTeX]</a>
 <a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
 <div id="bib_sbelharbiphd2018" class="bibtex noshow">
