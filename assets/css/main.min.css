@@ -1092,7 +1092,7 @@ svg:not(:root) {
 	box-shadow:inset 0 1px 1px rgba(0,0,0,0.05)
 }
 /*!
- *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome 
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */@font-face {
 	font-family:'FontAwesome';
@@ -3251,7 +3251,7 @@ body {
 	margin-right:5px
 }
 .article-author-side {
-	display:none
+	display: inline;
 }
 .article-author-side .bio-photo {
 	max-width:110px;
