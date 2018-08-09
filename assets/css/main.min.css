@@ -3251,7 +3251,7 @@ body {
 	margin-right:5px
 }
 .article-author-side {
-	display: inline;
+	display: none;
 }
 .article-author-side .bio-photo {
 	max-width:110px;
