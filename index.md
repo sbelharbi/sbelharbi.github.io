@@ -2,12 +2,12 @@
 layout: home2
 title: Hi! #Me in a Nutshell
 description: "Soufiane Belharbi's website"
-tags: [machine learning, deep learning, learning representations, academic, page, soufiane belharbi]
+tags: [machine learning, neural networks, deep learning, learning representations, academic, page, soufiane belharbi, montreal, canada, ÉTS, École de technologie supérieure, LIVIA lab, LITIS lab, Rouen, France]
 image:
   feature: rouen2.jpg
 ---
 
-My name is Soufiane Belharbi. I am currently a post-doctoral research fellow at [le Laboratoire d’imagerie, de vision et d’intelligence artificielle](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) (LIVIA lab) at [l'École de technologie supérieure](https://www.etsmtl.ca/) (ÉTS) in collaboration with [McGill university's Rosalind & Morris Goodman Cancer Research Centre](https://mcgillgcrc.com/) (GCRC). I am working with Profs. [Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on deep learning models for weakly supervised learning scenarios (semi-supervised learning, multi-instance learning, transfer learning) applied to medical imaging.
+My name is Soufiane Belharbi. I am currently a post-doctoral research fellow at [le Laboratoire d’imagerie, de vision et d’intelligence artificielle](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) (LIVIA lab) at [l'École de technologie supérieure](https://www.etsmtl.ca/) (ÉTS) in collaboration with [McGill university's Rosalind & Morris Goodman Cancer Research Centre](https://mcgillgcrc.com/) (GCRC). I am working with Profs. [Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on training neural network models in weakly supervised scenarios (semi-supervised learning, multi-instance learning, transfer learning) with application to medical imaging.
 <br/>
 <br/>
 
@@ -35,9 +35,9 @@ supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (d
 I am intrigued and particularly interested in **representation learning in neural networks**.
 
 ## Research Interests
-* Machine Learning
-* Deep Learning
-* Representation Learning
+* Machine learning
+* Neural networks
+* Representation learning
 * Regularization
 * Weakly supervised learning: semi-supervised/multi-instance/transfer learning
 
