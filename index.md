@@ -39,11 +39,12 @@ I am intrigued and particularly interested in **representation learning in neura
 * Neural networks
 * Representation learning
 * Regularization
-* Weakly supervised learning: semi-supervised/multi-instance/transfer learning
+* Weakly supervised learning
 
 
 
 ## News
+* Aug. 2019: New preprint: [**Weakly Supervised Object Localization using Min-Max Entropy: an Interpretable Framework**](https://arxiv.org/abs/1907.12934). <a href="https://arxiv.org/abs/1907.12934">[ArXiv]</a> <a href="https://github.com/sbelharbi/wsol-min-max-entropy-interpretability">[Code]</a>
 * Jul. 25<sup>th</sup>, 2018: I joined [LIVIA lab](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) at [l'ÉTS](https://www.etsmtl.ca/) in collaboration with [McGill's GCRC lab](https://mcgillgcrc.com/).
 * Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie. <a href="javascript:toggleBibtex('sbelharbiphd2018')">[BibTeX]</a>
 <a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
