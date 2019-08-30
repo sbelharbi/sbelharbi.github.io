@@ -5,10 +5,11 @@ title: Contact
 tags: [contact]
 comments: false
 ---
+ÉTS,
 
-1100, rue Notre-Dame Ouest
+1100, Notre-Dame st W
 
-Montréal (Qc) H3C 1K3
+Montreal (Qc) H3C 1K3
 <br/>
 <br/>
 
