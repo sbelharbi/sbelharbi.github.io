@@ -7,7 +7,7 @@ comments: false
 ---
 ÉTS,
 
-1100, Notre-Dame st W
+1100, Notre-Dame St W
 
 Montreal (Qc) H3C 1K3
 <br/>
