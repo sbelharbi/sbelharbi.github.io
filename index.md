@@ -7,7 +7,7 @@ image:
   feature: rouen2.jpg
 ---
 
-My name is Soufiane Belharbi. I am currently a post-doctoral research fellow at [le Laboratoire d’imagerie, de vision et d’intelligence artificielle](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) (LIVIA lab) at [l'École de technologie supérieure](https://www.etsmtl.ca/) (ÉTS) in collaboration with [McGill university's Rosalind & Morris Goodman Cancer Research Centre](https://mcgillgcrc.com/) (GCRC). I am working with Profs. [Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on training neural network models in weakly supervised scenarios (semi-supervised learning, multi-instance learning, transfer learning) with application to medical imaging.
+My name is Soufiane Belharbi. I am currently a post-doctoral research fellow at [le Laboratoire d’imagerie, de vision et d’intelligence artificielle](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) (LIVIA lab) at [l'École de technologie supérieure](https://www.etsmtl.ca/en/Home) (ÉTS) in collaboration with [McGill university's Rosalind & Morris Goodman Cancer Research Centre](https://mcgillgcrc.com/) (GCRC). I am working with Profs. [Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on training neural network models in weakly supervised scenarios (semi-supervised learning, multi-instance learning, transfer learning) with application to medical imaging.
 <br/>
 <br/>
 
