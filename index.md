@@ -21,7 +21,7 @@ supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (d
 <div id="bib_sbelharbiphd2018" class="bibtex noshow">
 <pre>
 @phdthesis{sbelharbiphd2018,
-  author = {Soufiane Belharbi},
+  author = {Belharbi, S.},
   title = {Neural Networks Regularization Through Representation Learning},
   school = {Normandie Université, INSA Rouen Normandie, LITIS laboratory},
   year = {2018},
@@ -44,7 +44,8 @@ I am intrigued and particularly interested in **representation learning in neura
 
 
 ## News
-* Sept. 06<sup>th</sup>, 2019: Presenting at weekly-seminars GCRC McGill, **Cancer identification and localization in histology images using deep learning**.
+* Sep. 2019: New preprint: [**Deep Weakly-supervised Learning Methods for Classification and Localization in Histology Images: a Survey**](https://arxiv.org/abs/1909.03354). <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a> <a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
+* Sep. 06<sup>th</sup>, 2019: Presenting at weekly-seminars GCRC McGill, **Cancer identification and localization in histology images using deep learning**.
 * Aug. 2019: New preprint: [**Weakly Supervised Localization using Min-Max Entropy: an Interpretable Framework**](https://arxiv.org/abs/1907.12934). <a href="https://arxiv.org/abs/1907.12934">[ArXiv]</a> <a href="https://github.com/sbelharbi/wsol-min-max-entropy-interpretability">[Code]</a>
 * Jul. 25<sup>th</sup>, 2018: I joined [LIVIA lab](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) at [l'ÉTS](https://www.etsmtl.ca/) in collaboration with [McGill's GCRC lab](https://mcgillgcrc.com/).
 * Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie. <a href="javascript:toggleBibtex('sbelharbiphd2018')">[BibTeX]</a>
@@ -52,7 +53,7 @@ I am intrigued and particularly interested in **representation learning in neura
 <div id="bib_sbelharbiphd2018" class="bibtex noshow">
 <pre>
 @phdthesis{sbelharbiphd2018,
-  author = {Soufiane Belharbi},
+  author = {Belharbi, S.},
   title = {Neural Networks Regularization Through Representation Learning},
   school = {Normandie Université, INSA Rouen Normandie, LITIS laboratory},
   year = {2018},
