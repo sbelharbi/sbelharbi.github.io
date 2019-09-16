@@ -32,13 +32,11 @@ supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (d
 </pre>
 </div>
 
-I am intrigued and particularly interested in **representation learning in neural networks**.
 
 ## Research Interests
 * Machine learning
 * Neural networks
 * Representation learning
-* Regularization
 * Weakly supervised learning
 
 
