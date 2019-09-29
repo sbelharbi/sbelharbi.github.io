@@ -44,7 +44,7 @@ supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (d
 ## News
 * Sep. 2019: New preprint: [**Deep Weakly-supervised Learning Methods for Classification and Localization in Histology Images: a Survey**](https://arxiv.org/abs/1909.03354). <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a> <a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
 * Sep. 06<sup>th</sup>, 2019: Presenting at weekly-seminars GCRC McGill, **Cancer identification and localization in histology images using deep learning**.
-* Aug. 2019: New preprint: [**Weakly Supervised Localization using Min-Max Entropy: an Interpretable Framework**](https://arxiv.org/abs/1907.12934). <a href="https://arxiv.org/abs/1907.12934">[ArXiv]</a> <a href="https://github.com/sbelharbi/wsol-min-max-entropy-interpretability">[Code]</a>
+* Aug. 2019: New preprint: [**Min-max Entropy for Weakly Supervised Pointwise Localization**](https://arxiv.org/abs/1907.12934). <a href="https://arxiv.org/abs/1907.12934">[ArXiv]</a> <a href="https://github.com/sbelharbi/wsol-min-max-entropy-interpretability">[Code]</a>
 * Jul. 25<sup>th</sup>, 2018: I joined [LIVIA lab](https://www.etsmtl.ca/Unites-de-recherche/LIVIA/accueil) at [l'ÉTS](https://www.etsmtl.ca/) in collaboration with [McGill's GCRC lab](https://mcgillgcrc.com/).
 * Jul. 06<sup>th</sup>, 2018: My PhD defense at INSA Rouen Normandie.
 <a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
