@@ -42,6 +42,7 @@ supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (d
 
 
 ## News
+* Nov. 2019: New preprint: [**Deep Ordinal Classification with Inequality Constraints**](https://arxiv.org/abs/1911.10720). <a href="https://arxiv.org/abs/1911.10720">[ArXiv]</a> <a href="https://github.com/sbelharbi/Deep-Ordinal-Classification-with-Inequality-Constraints">[Code]</a>
 * Sep. 2019: New preprint: [**Deep Weakly-supervised Learning Methods for Classification and Localization in Histology Images: a Survey**](https://arxiv.org/abs/1909.03354). <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a> <a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
 * Sep. 06<sup>th</sup>, 2019: Presenting at weekly-seminars GCRC McGill, **Cancer identification and localization in histology images using deep learning**.
 * Aug. 2019: New preprint: [**Min-max Entropy for Weakly Supervised Pointwise Localization**](https://arxiv.org/abs/1907.12934). <a href="https://arxiv.org/abs/1907.12934">[ArXiv]</a> <a href="https://github.com/sbelharbi/wsol-min-max-entropy-interpretability">[Code]</a>

@@ -220,6 +220,14 @@
   pllinks = {[ArXiv]:https://arxiv.org/abs/1909.03354;[Code]:https://github.com/jeromerony/survey_wsl_histology},
 }
 
+@Article{belharbi2019unimoconstraints,
+  author  = {Belharbi, S. and Ben Ayed, I. and McCaffrey, L. and Granger, E.},
+  title   = {Deep Ordinal Classification with Inequality Constraints},
+  journal = {coRR},
+  year    = {2019},
+  pllinks = {[ArXiv]:https://arxiv.org/abs/1911.10720;[Code]:https://github.com/sbelharbi/Deep-Ordinal-Classification-with-Inequality-Constraints},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: groupstree:
