@@ -220,6 +220,14 @@
   pllinks = {[ArXiv]:https://arxiv.org/abs/1909.03354;[Code]:https://github.com/jeromerony/survey_wsl_histology},
 }
 
+@Article{meethal2019convstn,
+  author  = {Meethal, A. and Pedersoli, M. and Belharbi, S. and Granger, E.},
+  title   = {Convolutional STN for Weakly Supervised Object Localization and Beyond},
+  journal = {coRR},
+  year    = {2019},
+  pllinks = {[ArXiv]:https://arxiv.org/abs/1912.01522},
+}
+
 @Article{belharbi2019unimoconstraints,
   author  = {Belharbi, S. and Ben Ayed, I. and McCaffrey, L. and Granger, E.},
   title   = {Deep Ordinal Classification with Inequality Constraints},
