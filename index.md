@@ -22,7 +22,6 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 * Interpretable machine learning
 
 
-
 ## News
 * Feb. 2022: pub@MIDL2022, [**Negative Evidence Matters in Interpretable Histology Image Classification**](https://arxiv.org/abs/2201.02445). <a href="https://arxiv.org/abs/2201.02445">[ArXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
 * Jan. 2022: pub@WACV2022, [**F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling**](https://arxiv.org/abs/2109.07069). <a href="https://arxiv.org/abs/2109.07069">[ArXiv]</a><a href="https://github.com/sbelharbi/fcam-wsol">[Code]</a>
