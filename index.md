@@ -28,6 +28,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 * Jan. 2022: pub@TMI, [**Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty**](https://arxiv.org/abs/2011.07221). <a href="https://arxiv.org/abs/2011.07221">[ArXiv]</a><a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">[Code]</a>
 
 
+
 ## Phd
 I completed my PhD in computer science at the [Institut National des Sciences Appliquées de Rouen Normandie](http://www.insa-rouen.fr/en) (INSA Rouen Normandie) in
 [LITIS lab](http://www.litislab.fr/),
