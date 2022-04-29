@@ -7,7 +7,7 @@ image:
   feature: rouen2.jpg
 ---
 
-My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](https://liviamtl.ca/) in collaboration with [McCaffrey Lab. / GCRC McGill](https://mccaffreylab.mcgill.ca/McCaffreyLab.html). I am working with [Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on training neural networks with weak supervision.
+My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](https://liviamtl.ca/) in collaboration with [McCaffrey Lab. / GCRC McGill](https://mccaffreylab.mcgill.ca/McCaffreyLab.html). I am working with [Eric Granger](https://www.etsmtl.ca/en/research/professors/egranger), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on training neural networks with weak supervision.
 <br/>
 <br/>
 
