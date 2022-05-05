@@ -11,10 +11,9 @@ comments: false
 
 **Registration**: Click [here](https://www.icpr2022.com/registration/).
 
-
-<!-- <img src="{{ site.url }}/images/{{ site.owner.avatar }}"
-alt="Soufiane Belharbi"
-style="float: left; margin-right: 10px;width:150px; clip-path: circle();" /> -->
+<br />
+<br />
+<br />
 
 <img src="{{ site.url }}/images/obj-loc-cub.png" alt="glas-results" width="600">
 <img src="{{ site.url }}/images/cam-cancer-glas.png" alt="glas-results" width="600">
