@@ -5,11 +5,13 @@ title: "ICRP 2022 tutorial: Deep Learning Models for Weakly-Supervised Object Lo
 tags: [ICPR tutotial 2022]
 comments: false
 ---
-**Date**: August 21-25, 2022. **Hour**: TBD.
+**Date**: August 21th, 2022. **Hour**: 9am-1pm.
 
 **Location**: Montreal, Quebec, Canada.
 
 **Registration**: Click [here](https://www.icpr2022.com/registration/).
+
+**Slides**: <a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">[Soon]</a>
 
 <br />
 <br />
@@ -26,12 +28,28 @@ This tutorial provides a detailed review of the recent progress with deep WSOL/W
 
 ### Tutorial Outline
 
-Our tutorial will cover the following topics:
-- An introduction to learning with weak-supervision: different types of settings for weak-supervision, and their application in object localization and segmentation. The connection of deep WSOL/WSSS models proposed for different tasks and domains, such as object localization, segmentation, and visual interpretation of deep learning models.
-- Review of state-of-the-art deep learning models for WSOL, with focus on Class Activation Map (CAM) methods which are at the core of these models. A detailed description of the most important approaches in the literature.
-- Review of state-of-the art deep WSSS methods.
-- Overview of CAM methods for visual interpretability of deep learning models.
-- Key challenges currently facing deep WSOL/WSSS models, and future directions.
+
+#### Part 1: Introduction
+- Weakly-supervised learning (motivations and definitions from pattern recognition and computer vision)
+- Focus of this tutorial - weakly-supervised object localization (WSOL) / weakly-supervised semantic segmentation (WSSS) in general
+
+#### Part 2:  Review of WSOL Methods
+- WSOL literature: bottom-up and top-down methods
+- Pause [30 min]
+- Case studies:
+  - F-CAM for improved interpolation  
+  - Transformer-based models
+
+#### Part 3: Review of WSSS Methods
+
+#### Part 4: Applications of WSOL / WSSS
+- Application on medical: Histology
+- Application video processing
+- Application metric learning
+- Medical segmentations applications
+
+#### Part 5: Key challenges and future directions
+
 
 
 ### Speakers Introduction
