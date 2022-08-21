@@ -11,7 +11,7 @@ comments: false
 
 **Registration**: Click [here](https://www.icpr2022.com/registration/).
 
-**Slides**: <a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">[Soon]</a>
+**Slides**: <a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">[here]</a>
 
 <br />
 <br />
