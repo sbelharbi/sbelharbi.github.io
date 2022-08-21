@@ -5,6 +5,11 @@ title: "ICRP 2022 tutorial: Deep Learning Models for Weakly-Supervised Object Lo
 tags: [ICPR tutotial 2022]
 comments: false
 ---
+[**Home**]({{ site.url }}/)
+<br />
+<br />
+
+
 **Date**: August 21th, 2022. **Hour**: 9am-1pm.
 
 **Location**: Montreal, Quebec, Canada.
