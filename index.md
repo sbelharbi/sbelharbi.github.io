@@ -23,7 +23,8 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
-* Aug 21. 2022: ICPR tutorial, [**Deep Learning Models for Weakly-Supervised Object Localization and Segmentation**]({{ site.url }}/icpr-2022-tutorial-wsl/), Soufiane Belharbi, Eric Granger, Ismail Ben Ayed. <a href="/icpr-2022-tutorial-wsl">[Page]</a><a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">[Slides]</a>
+* Aug. 2022: New ArXiv, [**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/abs/2208.14542). <a href="https://arxiv.org/abs/2208.14542">[ArXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
+* Aug. 21. 2022: ICPR tutorial, [**Deep Learning Models for Weakly-Supervised Object Localization and Segmentation**]({{ site.url }}/icpr-2022-tutorial-wsl/), Soufiane Belharbi, Eric Granger, Ismail Ben Ayed. <a href="/icpr-2022-tutorial-wsl">[Page]</a><a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">[Slides]</a>
 * Feb. 2022: pub@MIDL2022, [**Negative Evidence Matters in Interpretable Histology Image Classification**](https://arxiv.org/abs/2201.02445). <a href="https://arxiv.org/abs/2201.02445">[ArXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
 * Jan. 2022: pub@WACV2022, [**F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling**](https://arxiv.org/abs/2109.07069). <a href="https://arxiv.org/abs/2109.07069">[ArXiv]</a><a href="https://github.com/sbelharbi/fcam-wsol">[Code]</a>
 * Jan. 2022: pub@TMI, [**Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty**](https://arxiv.org/abs/2011.07221). <a href="https://arxiv.org/abs/2011.07221">[ArXiv]</a><a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">[Code]</a>
