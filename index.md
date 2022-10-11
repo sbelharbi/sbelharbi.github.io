@@ -23,6 +23,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
+* Oct. 2022: pub@WACV2023, [**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/abs/2208.14542). <a href="https://arxiv.org/abs/2208.14542">[ArXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
 * Sept. 2022: New ArXiv, [**Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/abs/2209.09209). <a href="https://arxiv.org/abs/2209.09209">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code (Soon)]</a>
 * Sept. 2022: Montreal AI Symposium, [**Constrained Sampling for Class-Agnostic Weakly Supervised Object Localization**](https://arxiv.org/abs/2209.09195). <a href="https://arxiv.org/abs/2209.09195">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code (Soon)]</a>
 * Aug. 2022: New ArXiv, [**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/abs/2208.14542). <a href="https://arxiv.org/abs/2208.14542">[ArXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
