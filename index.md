@@ -23,6 +23,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
+* Mar. 2023: pub@MELBA, [**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey**](https://arxiv.org/abs/1909.03354). <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a><a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
 * Nov. 2022: pub@WACVW2023, [**Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/abs/2209.09209). <a href="https://arxiv.org/abs/2209.09209">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
 * Oct. 2022: pub@WACV2023, [**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/abs/2208.14542). <a href="https://arxiv.org/abs/2208.14542">[ArXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
 * Sept. 2022: Montreal AI Symposium, [**Constrained Sampling for Class-Agnostic Weakly Supervised Object Localization**](https://arxiv.org/abs/2209.09195). <a href="https://arxiv.org/abs/2209.09195">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
