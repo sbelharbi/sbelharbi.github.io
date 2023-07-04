@@ -23,7 +23,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
-* Jul. 2023: Summer School 2023 - July 3 to 7 - Concordia University - Montreal, Canada. [**Leveraging Artificial Intelligence to Optimise Behavioural Health Interventions and Assessments**](https://frqs-ai-summerschool23.squarespace.com/).
+* Jul. 2023: Summer School 2023 - July 3 to 7 - Concordia University - Montreal, Canada. [**Leveraging Artificial Intelligence to Optimise Behavioural Health Interventions and Assessments**](https://frqs-ai-summerschool23.squarespace.com/). <a href="https://frqs-ai-summerschool23.squarespace.com/">[Website]</a>
 * Mar. 2023: New ArXiv, [**CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/abs/2303.09044). <a href="https://arxiv.org/abs/2303.09044">[ArXiv]</a><a href="https://github.com/sbelharbi/colo-cam">[Code]</a>
 * Mar. 2023: pub@MELBA, [**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey**](https://www.melba-journal.org/papers/2023:004.html). <a href="https://www.melba-journal.org/papers/2023:004.html">[Webpage]</a><a href="https://www.melba-journal.org/pdf/2023:004.pdf">[PDF]</a><a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
 * Nov. 2022: pub@WACVW2023, [**Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/abs/2209.09209). <a href="https://arxiv.org/abs/2209.09209">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
