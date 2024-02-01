@@ -23,8 +23,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
-* Jan. 2024: New ArXiv, [**Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport
-**](https://arxiv.org/abs/2401.15489). <a href="https://arxiv.org/abs/2401.15489">[ArXiv]</a><a href="https://github.com/haseebaslam95/PKDOT">[Code]</a>
+* Jan. 2024: New ArXiv, [**Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport**](https://arxiv.org/abs/2401.15489). <a href="https://arxiv.org/abs/2401.15489">[ArXiv]</a><a href="https://github.com/haseebaslam95/PKDOT">[Code]</a>
 * Dec. 2023: New ArXiv, [**Subject-Based Domain Adaptation for Facial Expression Recognition**](https://arxiv.org/abs/2312.05632). <a href="https://arxiv.org/abs/2312.05632">[ArXiv]</a><a href="https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER">[Code]</a>
 * Oct. 2023: pub@Image and Vision Computing. [**DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/abs/2310.06196). <a href="https://arxiv.org/abs/2310.06196">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
 * Jul. 2023: Summer School 2023-Jul.3-7-Concordia University-Montreal, Canada. [**Leveraging Artificial Intelligence to Optimise Behavioural Health Interventions and Assessments**](https://frqs-ai-summerschool23.squarespace.com/). <a href="https://frqs-ai-summerschool23.squarespace.com/">[Website]</a>
