@@ -23,6 +23,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
+* Apr. 2024: CVPRw 2024, [**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**](https://arxiv.org/abs/2404.19113). <a href="https://arxiv.org/abs/2404.19113">[ArXiv]</a><a href="https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda">[Code]</a>
 * Apr. 2024: CVPRw 2024, [**Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild**](https://arxiv.org/abs/2403.10488). <a href="https://arxiv.org/abs/2403.10488">[ArXiv]</a><a href="https://github.com/PoloWlg/Joint-Multimodal-Transformer-6th-ABAW">[Code]</a>
 * Apr. 2024: New ArXiv, [**Realistic Model Selection for Weakly Supervised Object Localization**](https://arxiv.org/abs/2404.10034). <a href="https://arxiv.org/abs/2404.10034">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/wsol_model_selection">[Code]</a>
 * Mar. 2024: FG 2024, [**Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues**](https://arxiv.org/abs/2402.00281). <a href="https://arxiv.org/abs/2402.00281">[ArXiv]</a><a href="https://github.com/sbelharbi/interpretable-fer-aus">[Code]</a>
