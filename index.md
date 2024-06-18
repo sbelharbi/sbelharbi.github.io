@@ -23,24 +23,24 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
-* Jun. 2024: New arXiv 2024, [**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**](https://arxiv.org/abs/2406.09168). <a href="https://arxiv.org/abs/2406.09168">[arXiv]</a><a href="https://github.com/sbelharbi/sr-caco-2">[Code]</a>
-* Apr. 2024: CVPRw 2024, [**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**](https://arxiv.org/abs/2404.19113). <a href="https://arxiv.org/abs/2404.19113">[arXiv]</a><a href="https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda">[Code]</a>
-* Apr. 2024: CVPRw 2024, [**Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild**](https://arxiv.org/abs/2403.10488). <a href="https://arxiv.org/abs/2403.10488">[arXiv]</a><a href="https://github.com/PoloWlg/Joint-Multimodal-Transformer-6th-ABAW">[Code]</a>
-* Apr. 2024: New arXiv, [**Realistic Model Selection for Weakly Supervised Object Localization**](https://arxiv.org/abs/2404.10034). <a href="https://arxiv.org/abs/2404.10034">[arXiv]</a><a href="https://github.com/shakeebmurtaza/wsol_model_selection">[Code]</a>
-* Mar. 2024: FG 2024, [**Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues**](https://arxiv.org/abs/2402.00281). <a href="https://arxiv.org/abs/2402.00281">[arXiv]</a><a href="https://github.com/sbelharbi/interpretable-fer-aus">[Code]</a>
-* Mar. 2024: FG 2024, [**Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport**](https://arxiv.org/abs/2401.15489). <a href="https://arxiv.org/abs/2401.15489">[arXiv]</a><a href="https://github.com/haseebaslam95/PKDOT">[Code]</a>
-* Mar. 2024: FG 2024, [**Subject-Based Domain Adaptation for Facial Expression Recognition**](https://arxiv.org/abs/2312.05632). <a href="https://arxiv.org/abs/2312.05632">[arXiv]</a><a href="https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER">[Code]</a>
-* Oct. 2023: Image and Vision Computing. [**DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/abs/2310.06196). <a href="https://arxiv.org/abs/2310.06196">[arXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
+* Jun. 2024: New arXiv 2024, [**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**](https://arxiv.org/pdf/2406.09168). <a href="https://arxiv.org/pdf/2406.09168">[arXiv]</a><a href="https://github.com/sbelharbi/sr-caco-2">[Code]</a>
+* Apr. 2024: CVPRw 2024, [**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**](https://arxiv.org/pdf/2404.19113). <a href="https://arxiv.org/pdf/2404.19113">[arXiv]</a><a href="https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda">[Code]</a>
+* Apr. 2024: CVPRw 2024, [**Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild**](https://arxiv.org/pdf/2403.10488). <a href="https://arxiv.org/pdf/2403.10488">[arXiv]</a><a href="https://github.com/PoloWlg/Joint-Multimodal-Transformer-6th-ABAW">[Code]</a>
+* Apr. 2024: New arXiv, [**Realistic Model Selection for Weakly Supervised Object Localization**](https://arxiv.org/pdf/2404.10034). <a href="https://arxiv.org/pdf/2404.10034">[arXiv]</a><a href="https://github.com/shakeebmurtaza/wsol_model_selection">[Code]</a>
+* Mar. 2024: FG 2024, [**Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues**](https://arxiv.org/pdf/2402.00281). <a href="https://arxiv.org/pdf/2402.00281">[arXiv]</a><a href="https://github.com/sbelharbi/interpretable-fer-aus">[Code]</a>
+* Mar. 2024: FG 2024, [**Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport**](https://arxiv.org/pdf/2401.15489). <a href="https://arxiv.org/pdf/2401.15489">[arXiv]</a><a href="https://github.com/haseebaslam95/PKDOT">[Code]</a>
+* Mar. 2024: FG 2024, [**Subject-Based Domain Adaptation for Facial Expression Recognition**](https://arxiv.org/pdf/2312.05632). <a href="https://arxiv.org/pdf/2312.05632">[arXiv]</a><a href="https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER">[Code]</a>
+* Oct. 2023: Image and Vision Computing. [**DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/pdf/2310.06196). <a href="https://arxiv.org/pdf/2310.06196">[arXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
 * Jul. 2023: Summer School 2023-Jul.3-7-Concordia University-Montreal, Canada. [**Leveraging Artificial Intelligence to Optimise Behavioural Health Interventions and Assessments**](https://frqs-ai-summerschool23.squarespace.com/). <a href="https://frqs-ai-summerschool23.squarespace.com/">[Website]</a>
-* Mar. 2023: New arXiv, [**CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/abs/2303.09044). <a href="https://arxiv.org/abs/2303.09044">[arXiv]</a><a href="https://github.com/sbelharbi/colo-cam">[Code]</a>
+* Mar. 2023: New arXiv, [**CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/pdf/2303.09044). <a href="https://arxiv.org/pdf/2303.09044">[arXiv]</a><a href="https://github.com/sbelharbi/colo-cam">[Code]</a>
 * Mar. 2023: MELBA, [**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey**](https://www.melba-journal.org/papers/2023:004.html). <a href="https://www.melba-journal.org/papers/2023:004.html">[Webpage]</a><a href="https://www.melba-journal.org/pdf/2023:004.pdf">[PDF]</a><a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a><a href="/publications/2023/poster-midl-2023.pdf">[MIDL2023 poster]</a>
-* Nov. 2022: WACVw 2023, [**Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/abs/2209.09209). <a href="https://arxiv.org/abs/2209.09209">[arXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
-* Oct. 2022: WACV 2023, [**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/abs/2208.14542). <a href="https://arxiv.org/abs/2208.14542">[arXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
-* Sep. 2022: Montreal AI Symposium, [**Constrained Sampling for Class-Agnostic Weakly Supervised Object Localization**](https://arxiv.org/abs/2209.09195). <a href="https://arxiv.org/abs/2209.09195">[arXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
+* Nov. 2022: WACVw 2023, [**Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization**](https://arxiv.org/pdf/2209.09209). <a href="https://arxiv.org/pdf/2209.09209">[arXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
+* Oct. 2022: WACV 2023, [**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/pdf/2208.14542). <a href="https://arxiv.org/pdf/2208.14542">[arXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
+* Sep. 2022: Montreal AI Symposium, [**Constrained Sampling for Class-Agnostic Weakly Supervised Object Localization**](https://arxiv.org/pdf/2209.09195). <a href="https://arxiv.org/pdf/2209.09195">[arXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
 * Aug. 2022: ICPR tutorial, [**Deep Learning Models for Weakly-Supervised Object Localization and Segmentation**]({{ site.url }}/icpr-2022-tutorial-wsl/). <a href="/icpr-2022-tutorial-wsl">[Page]</a><a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">[Slides]</a>
-* Feb. 2022: MIDL 2022, [**Negative Evidence Matters in Interpretable Histology Image Classification**](https://arxiv.org/abs/2201.02445). <a href="https://arxiv.org/abs/2201.02445">[arXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
-* Jan. 2022: WACV 2022, [**F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling**](https://arxiv.org/abs/2109.07069). <a href="https://arxiv.org/abs/2109.07069">[arXiv]</a><a href="https://github.com/sbelharbi/fcam-wsol">[Code]</a>
-* Jan. 2022: TMI, [**Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty**](https://arxiv.org/abs/2011.07221). <a href="https://arxiv.org/abs/2011.07221">[arXiv]</a><a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">[Code]</a>
+* Feb. 2022: MIDL 2022, [**Negative Evidence Matters in Interpretable Histology Image Classification**](https://arxiv.org/pdf/2201.02445). <a href="https://arxiv.org/pdf/2201.02445">[arXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
+* Jan. 2022: WACV 2022, [**F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling**](https://arxiv.org/pdf/2109.07069). <a href="https://arxiv.org/pdf/2109.07069">[arXiv]</a><a href="https://github.com/sbelharbi/fcam-wsol">[Code]</a>
+* Jan. 2022: TMI, [**Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty**](https://arxiv.org/pdf/2011.07221). <a href="https://arxiv.org/pdf/2011.07221">[arXiv]</a><a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">[Code]</a>
 
 
 
@@ -51,7 +51,7 @@ I completed my PhD in computer science at the [Institut National des Sciences Ap
 2014-Jul.2018). I was
 supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (director), [Clément Chatelain](http://pagesperso.litislab.fr/cchatelain/), and
 [Romain Hérault](https://asi.insa-rouen.fr/enseignants/~rherault/pelican/). During my PhD, I conducted research on the regularization of neural networks through representation learning with particular focus on learning scenarios where only few training samples are available. <a href="javascript:toggleBibtex('sbelharbiphd2018')">[BibTeX]</a>
-<a href="https://arxiv.org/abs/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
+<a href="https://arxiv.org/pdf/1807.05292">[ArXiv]</a><a href="https://tel.archives-ouvertes.fr/tel-01835035">[HAL-Thèse]</a><a href="/publications/2018/presentation-phd-defense-2018.pdf">[Presentation]</a>
 <div id="bib_sbelharbiphd2018" class="bibtex noshow">
 <pre>
 @phdthesis{sbelharbiphd2018,
@@ -61,7 +61,7 @@ supervised by [Prof. Sébastien Adam](http://pagesperso.litislab.fr/sebadam/) (d
   year = {2018},
   pages = {196},
   note = {Supervisor: Sébastien Adam, Advisors: Clément Chatelain, Romain Hérault},
-  url = {https://arxiv.org/abs/1807.05292}
+  url = {https://arxiv.org/pdf/1807.05292}
 }
 </pre>
 </div>
