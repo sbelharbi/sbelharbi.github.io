@@ -23,7 +23,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
-* Jul. 2024: New patent with Ericsson (pending), [**Method and System for Providing Labeled Images for Small Cell Site Selection**](https://patents.google.com/patent/US20240211541A1/en). <a href="https://patents.google.com/patent/US20240211541A1/en">[Link]</a>
+* Jul. 2024: New patent with Ericsson (Pending), [**Method and System for Providing Labeled Images for Small Cell Site Selection**](https://patents.google.com/patent/US20240211541A1/en). <a href="https://patents.google.com/patent/US20240211541A1/en">[Link]</a>
 * Jun. 2024: New arXiv 2024, [**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**](https://arxiv.org/pdf/2406.09168). <a href="https://arxiv.org/pdf/2406.09168">[arXiv]</a><a href="https://github.com/sbelharbi/sr-caco-2">[Code]</a>
 * Apr. 2024: CVPRw 2024, [**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**](https://arxiv.org/pdf/2404.19113). <a href="https://arxiv.org/pdf/2404.19113">[arXiv]</a><a href="https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda">[Code]</a>
 * Apr. 2024: CVPRw 2024, [**Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild**](https://arxiv.org/pdf/2403.10488). <a href="https://arxiv.org/pdf/2403.10488">[arXiv]</a><a href="https://github.com/PoloWlg/Joint-Multimodal-Transformer-6th-ABAW">[Code]</a>
