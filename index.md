@@ -23,6 +23,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
+* Oct. 2024: [**AI and Digital Health Symposium, ETS Montreal, Canada**](https://aihealthsymposium2024.squarespace.com/). <a href="https://aihealthsymposium2024.squarespace.com/posters">[Posters]</a>
 * Sept. 2024: NeurIPS 2024, [**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**](https://arxiv.org/pdf/2406.09168). <a href="https://arxiv.org/pdf/2406.09168">[arXiv]</a><a href="https://github.com/sbelharbi/sr-caco-2">[Code]</a>
 * Aug. 2024: ECCVw 2024, [**Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild**](https://arxiv.org/pdf/2407.12927). <a href="https://arxiv.org/pdf/2407.12927">[arXiv]</a><a href="https://github.com/nicolas-richet/feature-vs-text-compound-emotion">[Code text-based]</a><a href="https://github.com/sbelharbi/feature-vs-text-compound-emotion">[Code feature-based]</a>
 * Jul. 2024: New patent with Ericsson (Pending), [**Method and System for Providing Labeled Images for Small Cell Site Selection**](https://patents.google.com/patent/US20240211541A1/en). <a href="https://patents.google.com/patent/US20240211541A1/en">[Link]</a>
