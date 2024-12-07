@@ -113,7 +113,7 @@ For SS and RPN several bboxes are generated per image. To discard irrelevant bbo
 <a href="/material/realistic-wsol-protocol/bbox-generation.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/bbox-generation.png"   alt="Bounding boxes generation" width="600"></a>
 </p>
 
-</p>
+<br />
 
 Fig.2 shows the behaviour of localization performance when using pseudo-bboxes vs oracle bboxes over $${\mathcal{D}\_{val}}$$. The overall trend is similar as they both increase during the first epochs and reach their peak, decline and stagnate over the following epochs. This is extremely helpful for early stopping and hyper-parameter search. We also observe that localization using CLIP pseudo-annotation yields higher localization than the with the oracle. This is plausible since a model prediction can be further aligned with some annotations than others.
 
