@@ -184,7 +184,7 @@ In line with our proposed evaluation protocol and empirical results, we recommen
 <br />
 
 <p align="center">
-<a href="/material/realistic-wsol-protocol/glas.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/glas.png"   alt="GlaS dataset" width="600"></a>
+<a href="/material/realistic-wsol-protocol/glas.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/glas.png"   alt="GlaS and Camelyon16 dataset" width="600"></a>
 </p>
 
 
