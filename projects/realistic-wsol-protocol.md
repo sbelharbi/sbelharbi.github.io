@@ -86,7 +86,7 @@ Similarly, the same measure over $${\mathcal{D}_{val}}$$ can be defined using ou
 
 Eqs. \eqref{wacveval:eq:vl_exact_sup} and \eqref{wacveval:eq:vl_noisy_sup} provide an assessment of the model localization accuracy over a held-out $${\mathcal{D}_{val}}$$. Eq.\ref{wacveval:eq:vl_exact_sup} is accurate, while Eq.\ref{wacveval:eq:vl_noisy_sup} accounts for errors due to inaccurate \localization annotation. Since practitioners do not have access to the oracle bboxes ${o(x_i)}$, the measure ${\mathcal{M}(\theta, \mathcal{D}\_{val})\_o}$ is not realistic. When one has access to oracle ${o(x_i)}$ bboxes for training, it is better to perform SSL to directly fit the model weights instead of WSOL. However, one can still assess ${\mathcal{M}(\theta, \mathcal{D}\_{val})\_{\hat{o}}}$ for an approximate but realistic estimation of the model's \localization accuracy. The latter measure provides a realistic assessment of localization accuracy for WSOL. A direct application of our proposed noisy measure ${\mathcal{M}(\theta, \mathcal{D}\_{val})\_{\hat{o}}}$ in the WSOL setting is early stopping for model selection, and hyper-parameter search. In these applications, the measure must follow a similar behaviour to ${\mathcal{M}(\theta, \mathcal{D}\_{val})\_o}$, as shown in the next figure. 
 
-</p>
+<br />
 
 <p align="center">
 <a href="/material/realistic-wsol-protocol/model-selection-demo.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/model-selection-demo.png"   alt="Model selection - demo" width="600"></a>
@@ -107,7 +107,7 @@ For generation of pseudo-bboxes (using $${\hat{o}}$$), we leverage pretrained of
  
 For SS and RPN several bboxes are generated per image. To discard irrelevant bboxes and select the most discriminative one, we leverage the pointing game analysis. To this end, a classifier pretrained over $$\mathcal{D}_{train}$$ is considered. It is trained until convergence using only class-labels. The pointing game uses the maximum CAM response to select the most discriminative bboxes. In the case where multiple bboxes are ultimately selected, they are scored by the classifier response, and the bbox with the highest score is ultimately selected. Pseudo-bbox annotations are constructed for $${\mathcal{D}_{val}}$$, where each box contains the most discriminative object labeled in the image. This process is only executed once before performing any WSOL training. The generated bboxes are stored on disk, and used for future WSOL training. Therefore, our approach does not add any computation time to the training itself.
 
-</p>
+<br />
 
 <p align="center">
 <a href="/material/realistic-wsol-protocol/bbox-generation.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/bbox-generation.png"   alt="Bounding boxes generation" width="600"></a>
@@ -124,6 +124,8 @@ To provide a realistic evaluation protocol for WSOL, we proposed a strategy to g
 <p align="center">
 <a href="/material/realistic-wsol-protocol/quality-pseudo-bb.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/quality-pseudo-bb.png"   alt="Quality: Pseudo-bounding boxes " width="600"></a>
 </p>
+
+<br />
 
 <p align="center">
 <a href="/material/realistic-wsol-protocol/quality-pseudo-bb-final.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/quality-pseudo-bb-final.png"   alt="Quality: Pseudo-bounding boxes (final) " width="600"></a>
@@ -154,7 +156,7 @@ In line with our proposed evaluation protocol and empirical results, we recommen
 3. Our experiments suggest that model selection across various experiments, each employing different hyperparameters, should be based on the performance of pseudo-bboxes on the validation set. This approach mitigates bias in model performance evaluation.
 4. Be cautious when using thresholded-IOU metrics (IOU-30, IOU-50, IOU-70) and their variants, as these can mislead by considering uniform performance across instances above the set threshold. Our analysis reveals a non-linear relationship between thresholded-IOU and IOU (Tab.3). We recommend the use of non-thresholded-IOU for realistic evaluation.
 
-</p>
+<br />
 
 <p align="center">
 <a href="/material/realistic-wsol-protocol/iou50-vs-iou.png"><img src="{{ site.url }}/material/realistic-wsol-protocol/iou50-vs-iou.png"   alt="IOU-50 vs IOU" width="600"></a>
