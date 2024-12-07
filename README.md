@@ -1,5 +1,5 @@
 # My personal website
-url: [https://sbelharbi.github.io](https://sbelharbi.github.io). 
+url: [https://sbelharbi.github.io](https://sbelharbi.github.io).
 Website base on the them
 [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes) and its modified
 version by [Jordi Pont-Tuset](https://github.com/jponttuset/jponttuset.github.io).
@@ -22,10 +22,13 @@ version by [Jordi Pont-Tuset](https://github.com/jponttuset/jponttuset.github.io
 ## Licence:
 Feel free to use this them.
 
+
 ## How to run it locally?
 ```
 bundle exec jekyll serve
 ```
-Then, open your browser at the url: [*http://127.0.0.1:4000/*](http://127.0.0.1:4000/).
+Then, open your browser at the url: *[http://127.0.0.1:4000/](http://127.0.0.1:4000/)*.
+[comment]: # (how to change publist commands: https://github.com/jppazmin/bibsonomy-social-references/tree/master/bibsonomy/bibsonomy-layout/src/main/java/org/bibsonomy/layout/jabref/publist-en )
 
-[comment]: # (how to change publist commands: https://github.com/jppazmin/bibsonomy-social-references/tree/master/bibsonomy/bibsonomy-layout/src/main/java/org/bibsonomy/layout/jabref/publist-en)
+## Credit images:
+- [/images/home.png](./images/home.png): <a href="https://www.flaticon.com/free-icons/property" title="property icons">Property icons created by NajmunNahar - Flaticon</a>

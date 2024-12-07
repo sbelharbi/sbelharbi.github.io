@@ -13,13 +13,14 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 
-
 ## Research Interests
 * Machine learning
 * Neural networks
 * Representation learning
 * Weakly supervised learning
 * Interpretable machine learning
+
+List of projects: <a href="/all-projects">[Page]</a>.
 
 
 ## News

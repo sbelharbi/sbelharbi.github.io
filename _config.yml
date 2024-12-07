@@ -36,6 +36,8 @@ links:
     url: #/cv/
   - title: Publications
     url: /publications/
+  - title: Projects
+    url: /all-projects/
   - title: #Code
     url: #/code/
   - title: Teaching
@@ -49,7 +51,7 @@ links:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Paris
+timezone:    America/Montreal
 future:      true
 #pygments:    true
 highlighter: rouge
