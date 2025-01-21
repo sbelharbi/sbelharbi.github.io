@@ -22,7 +22,7 @@ Canada
 
 
 
-[![Download](https://img.shields.io/badge/Download-blue?logo=openaccess)](https://github.com/sbelharbi/sr-caco-2?tab=readme-ov-file#-sr-caco-2-dataset-licensedownload-)
+[![Download](https://img.shields.io/badge/Download-blue?logo=openaccess)](https://github.com/sbelharbi/sr-caco-2?tab=readme-ov-file#download-sr-caco-2)
 [![arXiv](https://img.shields.io/badge/arXiv-2406.09168-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2406.09168)
 [![Github](https://img.shields.io/badge/Github-sr--caco--2-brightgreen.svg?logo=github)](https://github.com/sbelharbi/sr-caco-2)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/sbelharbi/sr-caco-2)
@@ -79,7 +79,7 @@ ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL LICENSE (CC BY-NC-SA 4.0)
 
 <p align="center"><img src="/material/sr-caco-2/LICENSE.png" alt="outline" width="20%"></p>
 
-The download link can be found at: [github.com/sbelharbi/sr-caco-2](https://github.com/sbelharbi/sr-caco-2)
+The download link can be found at: [Download SR-CACO-2](https://github.com/sbelharbi/sr-caco-2?tab=readme-ov-file#download-sr-caco-2).
 
 
 ### Poster
