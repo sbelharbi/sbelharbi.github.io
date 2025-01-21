@@ -13,8 +13,8 @@ Marco Pedersoli<sup>1</sup>, Eric Granger<sup>1</sup>**
 <sup>1</sup>  LIVIA, ILLS, Dept. of Systems Engineering, ETS Montreal, Canada
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2404.10034-b31b1b.svg)](https://arxiv.org/pdf/2404.10034)
-[![Github](https://img.shields.io/badge/Github-realistic--wsol--protocol-brightgreen.svg)](https://github.com/shakeebmurtaza/wsol_model_selection)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.10034-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2404.10034)
+[![Github](https://img.shields.io/badge/Github-realistic--wsol--protocol-brightgreen.svg?logo=github)](https://github.com/shakeebmurtaza/wsol_model_selection)
 
 <br />
 
