@@ -13,6 +13,8 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 
+
+
 ## Research Interests
 * Machine learning
 * Neural networks
@@ -24,6 +26,10 @@ List of projects: <a href="/all-projects">[Page]</a>.
 
 
 ## News
+
+**New challenge is now open @ 8TH ABAW @ CVPR 2025**. [**Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)**](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). <a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">[Page]</a>
+
+
 * Jan. 2025: New arXiv, [**TeD-Loc: Text Distillation for Weakly Supervised Object Localization**](https://arxiv.org/pdf/2501.12632). <a href="https://arxiv.org/pdf/2501.12632">[arXiv]</a><a href="https://github.com/shakeebmurtaza/TeDLOC">[Code]</a>
 * Jan. 2025: **New challenge is now open @ 8TH ABAW @ CVPR 2025**. [**Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)**](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). <a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">[Page]</a>
 * Jan. 2025: Pattern Recognition, [**CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos**](https://arxiv.org/pdf/2303.09044). <a href="https://arxiv.org/pdf/2303.09044">[arXiv]</a><a href="https://github.com/sbelharbi/colo-cam">[Code]</a>
