@@ -28,14 +28,14 @@ Marco Pedersoli<sup>1</sup>, Eric Granger<sup>1</sup>**
 ```latex
 @inproceedings{murtaza25realistic,
   title    = {A Realistic Protocol for Evaluation of Weakly Supervised Object Localization},
-  author   = {Murtaza, Shakeeb and Belharbi, Soufiane and Pedersoli, Marco and Granger, Eric},
+  author   = {Murtaza, S. and Belharbi, S. and Pedersoli, M. and Granger, E.},
   booktitle= {WACV},
   year     = {2025},
 }
 ```
 
 
-<a href="javascript:toggleBibtex('belharbi24-sr-caco-2')">[BibTeX]</a>
+<!-- <a href="javascript:toggleBibtex('belharbi24-sr-caco-2')">[BibTeX]</a>
 
 <div id="bib_belharbi24-sr-caco-2" class="bibtex noshow">
 <pre>
@@ -46,7 +46,7 @@ Marco Pedersoli<sup>1</sup>, Eric Granger<sup>1</sup>**
   year     = {2025},
 }
 </pre>
-</div>
+</div> -->
 
 
 

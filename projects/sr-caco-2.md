@@ -52,7 +52,7 @@ Canada
 ```
 
 
-<a href="javascript:toggleBibtex('belharbi24-sr-caco-2')">[BibTeX]</a>
+<!-- <a href="javascript:toggleBibtex('belharbi24-sr-caco-2')">[BibTeX]</a>
 
 <div id="bib_belharbi24-sr-caco-2" class="bibtex noshow">
 <pre>
@@ -64,7 +64,8 @@ Canada
   year={2024}
 }
 </pre>
-</div>
+</div> -->
+
 
 
 
