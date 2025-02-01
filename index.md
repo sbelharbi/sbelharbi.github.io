@@ -12,6 +12,9 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 <br/>
 
 
+
+
+
 ## Research Interests
 * Machine learning
 * Neural networks
@@ -19,8 +22,8 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 * Weakly supervised learning
 * Interpretable machine learning
 
+[![Website](https://img.shields.io/badge/-List%20of%20projects-blue)](/all-projects)
 
-[![Website](https://img.shields.io/badge/List-%20of%20projects-blue)](/all-projects)
 
 
 ## News
