@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: home2
 permalink: /realistic-wsol-protocol/
 title: "A Realistic Protocol for Evaluation of Weakly Supervised Object Localization (WACV2025)"
 tags: [Weakly-supervised Object Localization (WSOL), Protocol, Model Selection, Pseudo-annotation, Deep Learning, Class Activation Maps (CAMs), Code, Github]
@@ -65,7 +65,7 @@ In this section, we describe a new protocol for evaluating WSOL methods. First L
 
 #### Model Selection
 
-Consider a WSOL training set $${\mathcal{D}_{train}=\{(x_i, y_i, \cdot)\}}$$ composed of samples with $${x_i}$$ the input image, $${y_i}$$ its class-label, and $${\cdot}$$ is its missing bbox supervision. Let us define $${\mathcal{D}_{val}=\{(x_i, y_i, \cdot)\}_{i=1}^N}$$, and $${\mathcal{D}_{test}=\{(x_i, y_i, o(x_i))\}}$$ as the held-out validation and test sets, respectively, where $${o(x_i)}$$ is the oracle manual bbox annotation for the sample $${x_i}$$. In the WSOL setting, bbox supervision is unavailable for any dataset. However, in a laboratory, the test set contains them to evaluate localization performance of a model. 
+Consider a WSOL training set $${\mathcal{D}_{train}=\{(x_i, y_i, \cdot)\}}$$ composed of samples with $${x_i}$$ the input image, $${y_i}$$ its class-label, and $${\cdot}$$ is its missing bbox supervision. Let us define $${\mathcal{D}_{val}=\{(x_i, y_i, \cdot)\}_{i=1}^N}$$, and $${\mathcal{D}_{test}=\{(x_i, y_i, o(x_i))\}}$$ as the held-out validation and test sets, respectively, where $${o(x_i)}$$ is the oracle manual bbox annotation for the sample $${x_i}$$. In the WSOL setting, bbox supervision is unavailable for any dataset. However, in a laboratory, the test set contains them to evaluate localization performance of a model.
 
 The WSOL setting involves training a model $${f(\cdot; \theta)}$$ with parameters $${\theta}$$ to correctly classify an input image while yielding LOC boxes. Training is performed on $${\mathcal{D}_{train}}$$ that lacks LOC supervision. In this paper, we introduce a pseudo-annotator $${\hat{o}}$$ that automatically annotates an image with pseudo-bboxes (without human intervention) and only requires the class-labels. $${\hat{o}}$$ yields noisy bboxes, providing LOC pseudo-bbox annotations $${\hat{o}(x_i)}$$ that are less accurate than oracle bbox annotations $${o(x_i)}$$. Moreover, we redefine the validation set $$\mathcal{D}_{val}$$ to incorporate pseudo-bboxes $${\hat{o}(x_i)}$$, yielding $${\mathcal{D}_{val}=\{(x_i, y_i, {\hat{o}(x_i)})\}_{i=1}^N}$$.
 
@@ -84,7 +84,7 @@ Similarly, the same measure over $${\mathcal{D}_{val}}$$ can be defined using ou
 \end{equation}
 
 
-Eqs. \eqref{wacveval:eq:vl_exact_sup} and \eqref{wacveval:eq:vl_noisy_sup} provide an assessment of the model localization accuracy over a held-out $${\mathcal{D}_{val}}$$. Eq.\ref{wacveval:eq:vl_exact_sup} is accurate, while Eq.\ref{wacveval:eq:vl_noisy_sup} accounts for errors due to inaccurate localization annotation. Since practitioners do not have access to the oracle bboxes ${o(x_i)}$, the measure $${\mathcal{M}(\theta, \mathcal{D}_{val})_o}$$ is not realistic. When one has access to oracle ${o(x_i)}$ bboxes for training, it is better to perform SSL to directly fit the model weights instead of WSOL. However, one can still assess $${\mathcal{M}(\theta, \mathcal{D}_{val})_{\hat{o}}}$$ for an approximate but realistic estimation of the model's localization accuracy. The latter measure provides a realistic assessment of localization accuracy for WSOL. A direct application of our proposed noisy measure $${\mathcal{M}(\theta, \mathcal{D}_{val})_{\hat{o}}}$$ in the WSOL setting is early stopping for model selection, and hyper-parameter search. In these applications, the measure must follow a similar behaviour to $${\mathcal{M}(\theta, \mathcal{D}_{val})_o}$$, as shown in the next figure. 
+Eqs. \eqref{wacveval:eq:vl_exact_sup} and \eqref{wacveval:eq:vl_noisy_sup} provide an assessment of the model localization accuracy over a held-out $${\mathcal{D}_{val}}$$. Eq.\ref{wacveval:eq:vl_exact_sup} is accurate, while Eq.\ref{wacveval:eq:vl_noisy_sup} accounts for errors due to inaccurate localization annotation. Since practitioners do not have access to the oracle bboxes ${o(x_i)}$, the measure $${\mathcal{M}(\theta, \mathcal{D}_{val})_o}$$ is not realistic. When one has access to oracle ${o(x_i)}$ bboxes for training, it is better to perform SSL to directly fit the model weights instead of WSOL. However, one can still assess $${\mathcal{M}(\theta, \mathcal{D}_{val})_{\hat{o}}}$$ for an approximate but realistic estimation of the model's localization accuracy. The latter measure provides a realistic assessment of localization accuracy for WSOL. A direct application of our proposed noisy measure $${\mathcal{M}(\theta, \mathcal{D}_{val})_{\hat{o}}}$$ in the WSOL setting is early stopping for model selection, and hyper-parameter search. In these applications, the measure must follow a similar behaviour to $${\mathcal{M}(\theta, \mathcal{D}_{val})_o}$$, as shown in the next figure.
 
 <br />
 
@@ -96,7 +96,7 @@ Eqs. \eqref{wacveval:eq:vl_exact_sup} and \eqref{wacveval:eq:vl_noisy_sup} provi
 ### Pseudo-bbox Annotation
 
 
-For generation of pseudo-bboxes (using $${\hat{o}}$$), we leverage pretrained of-the-shelf region proposal models to generate LOC annotations for a held-out validation set $${\mathcal{D}_{val}=\{(x_i, y_i, {\hat{o}(x_i)})\}_{i=1}^N}$$. This set is originally labeled with class-labels only. These models can be unsupervised without the need for training or require weak supervision for training. We consider the three following scenarios of the pretrained model depending on its level of supervision. 
+For generation of pseudo-bboxes (using $${\hat{o}}$$), we leverage pretrained of-the-shelf region proposal models to generate LOC annotations for a held-out validation set $${\mathcal{D}_{val}=\{(x_i, y_i, {\hat{o}(x_i)})\}_{i=1}^N}$$. This set is originally labeled with class-labels only. These models can be unsupervised without the need for training or require weak supervision for training. We consider the three following scenarios of the pretrained model depending on its level of supervision.
 
 1. **Unsupervised**: In this case, the model does not have access to any supervision. Typical examples are conventional region proposal methods that are generally used to build pseudo-supervision to train object detector models. Selective Search (SS) is a commonly used method where no parameters are learned. Carefully engineered features and score functions are used to greedily merge low-level superpixels that produce the final region proposals. The per-proposal score can be used to rank the likelihood that the proposal contains an object.
 
@@ -104,7 +104,7 @@ For generation of pseudo-bboxes (using $${\hat{o}}$$), we leverage pretrained of
 
 3. **Supervised with class agnostic bboxes**: An alternative approach involves using a region proposal model that is trained using a general dataset like Pascal VOC and MS-COCO, with LOC bboxes. This methodology differs in that it does not employ class-labels, but rather LOC bboxes that are class-agnostic. A typical example is the RPN, a fully convolutional network that simultaneously predicts object bounds at each position, and provides objectness scores that allow to rank proposals.
 
- 
+
 For SS and RPN several bboxes are generated per image. To discard irrelevant bboxes and select the most discriminative one, we leverage the pointing game analysis. To this end, a classifier pretrained over $$\mathcal{D}_{train}$$ is considered. It is trained until convergence using only class-labels. The pointing game uses the maximum CAM response to select the most discriminative bboxes. In the case where multiple bboxes are ultimately selected, they are scored by the classifier response, and the bbox with the highest score is ultimately selected. Pseudo-bbox annotations are constructed for $${\mathcal{D}_{val}}$$, where each box contains the most discriminative object labeled in the image. This process is only executed once before performing any WSOL training. The generated bboxes are stored on disk, and used for future WSOL training. Therefore, our approach does not add any computation time to the training itself.
 
 <br />
@@ -149,9 +149,9 @@ To provide a realistic evaluation protocol for WSOL, we proposed a strategy to g
 
 #### Recommendation for Realistic Evaluation
 
-In line with our proposed evaluation protocol and empirical results, we recommend the following practices. Training and evaluation should be constrained to only utilizing class-level labels without resorting to manual bbox annotations for model selection and threshold estimation: 
+In line with our proposed evaluation protocol and empirical results, we recommend the following practices. Training and evaluation should be constrained to only utilizing class-level labels without resorting to manual bbox annotations for model selection and threshold estimation:
 
-1. We recommend utilizing pseudo-bboxes generated by off-the-sheld methods for validation set. Our experiments show that these pseudo-bboxes can effectively provide the localization annotation for model selection, achieving performance comparable to using GT annotations. 
+1. We recommend utilizing pseudo-bboxes generated by off-the-sheld methods for validation set. Our experiments show that these pseudo-bboxes can effectively provide the localization annotation for model selection, achieving performance comparable to using GT annotations.
 2. Estimating thresholds using pseudo-bboxes from the validation set instead of the test set to produce bboxes from localization maps. This approach addresses the unrealistic practice of thresholding.  
 3. Our experiments suggest that model selection across various experiments, each employing different hyperparameters, should be based on the performance of pseudo-bboxes on the validation set. This approach mitigates bias in model performance evaluation.
 4. Be cautious when using thresholded-IOU metrics (IOU-30, IOU-50, IOU-70) and their variants, as these can mislead by considering uniform performance across instances above the set threshold. Our analysis reveals a non-linear relationship between thresholded-IOU and IOU (Tab.3). We recommend the use of non-thresholded-IOU for realistic evaluation.
@@ -191,7 +191,7 @@ In line with our proposed evaluation protocol and empirical results, we recommen
 
 ### Conclusion
 
-The currently-used protocol (Choe et al.) for evaluation of WSOL methods has driven significant progress in the field. However, its reliance on manually annotated bboxes during validation for model selection, and annotated test set for threshold estimation leads to an overestimation of localization performance on the test set. In this work, we propose generating pseudo-bboxes for the validation set using off-the-shelf pretrained region proposal models for both model selection and threshold estimation. This threshold is then employed to produce bboxes from localization maps on the test set. Our approach was evaluated with different WSOL methods and shows that employing pseudo-bboxes for model evaluation achieves localization performance comparable to models selected using GT bboxes where the threshold is estimated on the test set. Our approach is therefore a promising and more realistic alternative than using a GT annotated held-out dataset. Despite the promising results with our protocol, performing model selection in WSOL without localization annotation remains an open issue. 
+The currently-used protocol (Choe et al.) for evaluation of WSOL methods has driven significant progress in the field. However, its reliance on manually annotated bboxes during validation for model selection, and annotated test set for threshold estimation leads to an overestimation of localization performance on the test set. In this work, we propose generating pseudo-bboxes for the validation set using off-the-shelf pretrained region proposal models for both model selection and threshold estimation. This threshold is then employed to produce bboxes from localization maps on the test set. Our approach was evaluated with different WSOL methods and shows that employing pseudo-bboxes for model evaluation achieves localization performance comparable to models selected using GT bboxes where the threshold is estimated on the test set. Our approach is therefore a promising and more realistic alternative than using a GT annotated held-out dataset. Despite the promising results with our protocol, performing model selection in WSOL without localization annotation remains an open issue.
 
 
 

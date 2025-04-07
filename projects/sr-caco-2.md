@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: home2
 permalink: /sr-caco-2/
 title: "SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution (NeurIPS2024)"
 tags: [SR-CACO-2, SR-CACO-2 Dataset, New Dataset, Confocal Fluorescence Microscopy, Image Super-resolution, Deep Learning, Single Image Super-resolution, SISR, Benchmark, NeurIPS, NeurIPS 2024, Code, Github, Hugging Face]
@@ -58,7 +58,7 @@ Canada
 <pre>
 @inproceedings{belharbi24-sr-caco-2,
   title={SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution},
-  author={Belharbi, S. and Whitford, M.K.M. and Hoang, P. and Murtaza, S. 
+  author={Belharbi, S. and Whitford, M.K.M. and Hoang, P. and Murtaza, S.
   and McCaffrey, L. and Granger, E.},
   booktitle={NeurIPS},
   year={2024}
@@ -99,9 +99,9 @@ The download link can be found at: [Download SR-CACO-2](https://github.com/sbelh
 </p>
 
 ### SR-CACO-2: Diversity
-During the acquisition of SR-CACO-2, we ensured the technical and biological diversity of samples. To automate the image acquisition, we programmed the microscope to capture multiple sets of 100 images. Each set of 100 images was stitched together (10 × 10) to form an image tile. Therefore, each tile represents 100 unique images (fields of view) and the 22 tiles correspond to 2,200 unique images. Each image is captured at four scales and for three markers. The automatic collection of a tile of the 4 different resolutions takes over ∼12-16 hours. We note that each tile was captured in a multi-well plate. The 22 wells were collected from 4 independent experiments using 5-6 wells per plate/experiment, ensuring adequate and standard biological diversity. 
+During the acquisition of SR-CACO-2, we ensured the technical and biological diversity of samples. To automate the image acquisition, we programmed the microscope to capture multiple sets of 100 images. Each set of 100 images was stitched together (10 × 10) to form an image tile. Therefore, each tile represents 100 unique images (fields of view) and the 22 tiles correspond to 2,200 unique images. Each image is captured at four scales and for three markers. The automatic collection of a tile of the 4 different resolutions takes over ∼12-16 hours. We note that each tile was captured in a multi-well plate. The 22 wells were collected from 4 independent experiments using 5-6 wells per plate/experiment, ensuring adequate and standard biological diversity.
 
-To further assess the diversity of our dataset, we performed an object-based analysis of cellular structures captured in the image dataset. The 2,200 ((22 × 10 × 10) unique image fields of view at the high resolution contain ∼16,800 multi-cellular objects. 
+To further assess the diversity of our dataset, we performed an object-based analysis of cellular structures captured in the image dataset. The 2,200 ((22 × 10 × 10) unique image fields of view at the high resolution contain ∼16,800 multi-cellular objects.
 
 The cells were cultivated in a three-dimensional protein matrix that allows them to form tissue-like cyst structures that resemble the natural organization of cells in tissues and organs, such as the colon, lung, breast, etc. Cells grown in a three-dimensional matrix exhibit spontaneous variations in cyst size and organization (hollow or solid). We recently reported multiple cellular phenotypes in Caco2 cells that resemble tissue geometries found in healthy and disease states. Our dataset contains cysts with size variations over 2 orders of magnitude. Moreover, shape analysis of the cysts demonstrates substantial variation in aspect ratio and circularity. This reflects cysts covering a spectrum of phenotypes, including single-layered, multi-layered, and solid. This contrasts with cells grown as two-dimensional cultures on plastic or glass surfaces, where there is substantially less variation in size and organization when viewing single cells or confluent patches as is often used in other recently published microscopy datasets. The next figure shows the analysis of the cells in the SR-CACO-2 dataset. We can observe from these plots that the cells span a large size range with a relatively circular shape.
 
@@ -197,7 +197,7 @@ This large contrast between real and bicubic LR only confirms that bicubic LR ca
 ### Conclusion
 
 The few existing datasets for SISR microscopy are mostly private which limits research advancements.
-Our work seeks to address this gap. In particular, we propose a new dataset, SR-CACO-2, for Confocal Fluorescence Microscopy Image Super-Resolution. It contains 3 scales (\X2, \X4, and \X8, in addition to HR) with three protein markers in different lighting conditions and about 9k real pairs of LR/HR patches. The procedure for data capture and the experimental protocol for the evaluation of SISR methods follow standard practices, in addition to being reproducible. 
+Our work seeks to address this gap. In particular, we propose a new dataset, SR-CACO-2, for Confocal Fluorescence Microscopy Image Super-Resolution. It contains 3 scales (\X2, \X4, and \X8, in addition to HR) with three protein markers in different lighting conditions and about 9k real pairs of LR/HR patches. The procedure for data capture and the experimental protocol for the evaluation of SISR methods follow standard practices, in addition to being reproducible.
 
 Our benchmarking of state-of-the-art SISR methods indicates that they cannot accurately produce the HR images, making this new dataset extremely challenging. Aside from the evaluation of quality for super-resolved images, we conducted further analysis to assess their performance in downstream biology tasks such as cell segmentation. Several methods achieved promising results compared to LR and HR images over cell detection/segmentation tasks.
 

@@ -6,13 +6,10 @@ tags: [machine learning, neural networks, deep learning, learning representation
 image:
   feature: rouen2.jpg
 ---
-
 My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](https://liviamtl.ca/) in collaboration with [McCaffrey Lab. / GCRC McGill](https://mccaffreylab.mcgill.ca/McCaffreyLab.html). I am working with [Eric Granger](https://www.etsmtl.ca/en/research/professors/egranger), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on training neural networks with weak supervision.
-<br/>
-<br/>
 
-
-
+<!-- <br/>
+<br/> -->
 
 
 ## Research Interests
@@ -22,13 +19,10 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 * Weakly supervised learning
 * Interpretable machine learning
 
-[![Website](https://img.shields.io/badge/-List%20of%20projects-blue)](/all-projects)
-
-
 
 ## News
 
-**New challenge is now open @ 8TH ABAW @ CVPR 2025**. [*Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)*](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). [<a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">Page</a>][<a href="https://drive.google.com/file/d/1XpGBVp6TZnV3khbyP48SpIWmGnR8EbYU/view">Results</a>][<a href="https://doi.org/10.6084/m9.figshare.28524563.v4">White paper</a>]
+**New challenge @ 8TH ABAW @ CVPR 2025**. [*Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)*](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). [<a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">Page</a>][<a href="https://drive.google.com/file/d/1XpGBVp6TZnV3khbyP48SpIWmGnR8EbYU/view">Results</a>][<a href="https://doi.org/10.6084/m9.figshare.28524563.v4">White paper</a>]
 
 * Apr. 2025: FG 2025, [*“Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data”*](https://arxiv.org/pdf/2503.20771). [<a href="https://arxiv.org/pdf/2503.20771">arXiv</a>][<a href="https://github.com/MasoumehSharafi/DSFDA-for-Pain-Assessment">Code</a>]
 * Apr. 2025: MIDL 2025, [*“PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization”*](https://arxiv.org/pdf/2503.24135). [<a href="https://arxiv.org/pdf/2503.24135">arXiv</a>][<a href="https://github.com/alexisguichemerrecode/pixelcam">Code</a>]
@@ -37,27 +31,6 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 * Jan. 2025: *New challenge is now open @ 8TH ABAW @ CVPR 2025*. [*“Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)”*](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). [<a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">Page</a>][<a href="https://drive.google.com/file/d/1XpGBVp6TZnV3khbyP48SpIWmGnR8EbYU/view">Results</a>][<a href="https://doi.org/10.6084/m9.figshare.28524563.v4">White paper</a>]
 * Jan. 2025: Pattern Recognition journal, [*“CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos”*](https://arxiv.org/pdf/2303.09044). [<a href="https://arxiv.org/pdf/2303.09044">arXiv</a>][<a href="https://github.com/sbelharbi/colo-cam">Code</a>][<a href="/colo-cam">Page</a>][<a href="https://authors.elsevier.com/a/1kUV-77nKs8lu">Free journal access until March 14, 2025</a>]
 * Oct. 2024: WACV 2025, [*“A Realistic Protocol for Evaluation of Weakly Supervised Object Localization”*](https://arxiv.org/pdf/2404.10034). [<a href="https://arxiv.org/pdf/2404.10034">arXiv</a>][<a href="https://github.com/shakeebmurtaza/wsol_model_selection">Code</a>]
-* Oct. 2024: AI and Digital Health Symposium, ETS Montreal, Canada. [*“Incorporating Affective Computing to Enhance Health Assessments and Interventions”*](https://aihealthsymposium2024.squarespace.com/). [<a href="https://aihealthsymposium2024.squarespace.com/posters">Posters</a>]
-* Sept. 2024: NeurIPS 2024, [*“SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution”*](https://arxiv.org/pdf/2406.09168). [<a href="https://arxiv.org/pdf/2406.09168">arXiv</a>][<a href="https://github.com/sbelharbi/sr-caco-2">Code</a>][<a href="https://github.com/sbelharbi/sr-caco-2?tab=readme-ov-file#download-sr-caco-2">Download Dataset</a>][<a href="/sr-caco-2">Page</a>]
-* Aug. 2024: ECCVw 2024, [*“Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild”*](https://arxiv.org/pdf/2407.12927). [<a href="https://arxiv.org/pdf/2407.12927">arXiv</a>][<a href="https://github.com/nicolas-richet/feature-vs-text-compound-emotion">Code text-based</a>][<a href="https://github.com/sbelharbi/feature-vs-text-compound-emotion">Code feature-based</a>]
-* Jul. 2024: New patent with Ericsson (Pending), [*“Method and System for Providing Labeled Images for Small Cell Site Selection”*](https://patents.google.com/patent/US20240211541A1/en). [<a href="https://patents.google.com/patent/US20240211541A1/en">Link</a>]
-* Apr. 2024: CVPRw 2024, [*“Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology”*](https://arxiv.org/pdf/2404.19113). [<a href="https://arxiv.org/pdf/2404.19113">arXiv</a>][<a href="https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda">Code</a>]
-* Apr. 2024: CVPRw 2024, [*“Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild”*](https://arxiv.org/pdf/2403.10488). [<a href="https://arxiv.org/pdf/2403.10488">arXiv</a>][<a href="https://github.com/PoloWlg/Joint-Multimodal-Transformer-6th-ABAW">Code</a>]
-* Mar. 2024: FG 2024, [*“Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues”*](https://arxiv.org/pdf/2402.00281). [<a href="https://arxiv.org/pdf/2402.00281">arXiv</a>][<a href="https://github.com/sbelharbi/interpretable-fer-aus">Code</a>]
-* Mar. 2024: FG 2024, [*“Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport”*](https://arxiv.org/pdf/2401.15489). [<a href="https://arxiv.org/pdf/2401.15489">arXiv</a>][<a href="https://github.com/haseebaslam95/PKDOT">Code</a>]
-* Mar. 2024: FG 2024, [*“Subject-Based Domain Adaptation for Facial Expression Recognition”*](https://arxiv.org/pdf/2312.05632). [<a href="https://arxiv.org/pdf/2312.05632">arXiv</a>][<a href="https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER">Code</a>]
-* Oct. 2023: Image and Vision Computing. [*“DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization”*](https://arxiv.org/pdf/2310.06196). [<a href="https://arxiv.org/pdf/2310.06196">arXiv</a>][<a href="https://github.com/shakeebmurtaza/dips">Code</a>]
-* Jul. 2023: Summer School 2023-Jul.3-7-Concordia University-Montreal, Canada. [*“Leveraging Artificial Intelligence to Optimise Behavioural Health Interventions and Assessments”*](https://frqs-ai-summerschool23.squarespace.com/). [<a href="https://frqs-ai-summerschool23.squarespace.com/">Website</a>]
-* Mar. 2023: MELBA journal, [*“Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey”*](https://www.melba-journal.org/papers/2023:004.html). [<a href="https://www.melba-journal.org/papers/2023:004.html">Webpage</a>][<a href="https://www.melba-journal.org/pdf/2023:004.pdf">PDF</a>][<a href="https://github.com/jeromerony/survey_wsl_histology">Code</a>][<a href="/publications/2023/poster-midl-2023.pdf">MIDL2023 poster</a>]
-* Nov. 2022: WACVw 2023, [*“Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization”*](https://arxiv.org/pdf/2209.09209). [<a href="https://arxiv.org/pdf/2209.09209">arXiv</a>][<a href="https://github.com/shakeebmurtaza/dips">Code</a>]
-* Oct. 2022: WACV 2023, [*“TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos”*](https://arxiv.org/pdf/2208.14542). [<a href="https://arxiv.org/pdf/2208.14542">arXiv</a>][<a href="https://github.com/sbelharbi/tcam-wsol-video">Code</a>]
-* Sep. 2022: Montreal AI Symposium, [*“Constrained Sampling for Class-Agnostic Weakly Supervised Object Localization”*](https://arxiv.org/pdf/2209.09195). [<a href="https://arxiv.org/pdf/2209.09195">arXiv</a>][<a href="https://github.com/shakeebmurtaza/dips">Code</a>]
-* Aug. 2022: ICPR tutorial, [*“Deep Learning Models for Weakly-Supervised Object Localization and Segmentation”*]({{ site.url }}/icpr-2022-tutorial-wsl/). [<a href="/icpr-2022-tutorial-wsl">Page</a>][<a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">Slides</a>]
-* Feb. 2022: MIDL 2022, [*“Negative Evidence Matters in Interpretable Histology Image Classification”*](https://arxiv.org/pdf/2201.02445). [<a href="https://arxiv.org/pdf/2201.02445">arXiv</a>][<a href="https://github.com/sbelharbi/negev">Code</a>]
-* Jan. 2022: WACV 2022, [*“F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling”*](https://arxiv.org/pdf/2109.07069). [<a href="https://arxiv.org/pdf/2109.07069">arXiv</a>][<a href="https://github.com/sbelharbi/fcam-wsol">Code</a>]
-* Jan. 2022: TMI journal, [*“Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty”*](https://arxiv.org/pdf/2011.07221). [<a href="https://arxiv.org/pdf/2011.07221">arXiv</a>][<a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">Code</a>]
-
-
 
 ## Phd
 I completed my PhD in computer science at the [Institut National des Sciences Appliquées de Rouen Normandie](http://www.insa-rouen.fr/en) (INSA Rouen Normandie) in

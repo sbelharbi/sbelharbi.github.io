@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: home2
 permalink: /colo-cam/
 title: "CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos (Pattern Recognition 2025)"
 tags: [Weakly-supervised Object Localization, Weakly Labeled Unconstrained Videos, Co-localization, Classactivation Mapping (CAMs), Deep Learning, Convolutional Neural Networks, Code, Github]
@@ -42,7 +42,7 @@ by **Soufiane Belharbi<sup>1</sup>,  Shakeeb Murtaza<sup>1</sup>, Marco Pedersol
 
 <p align="center">
   <a href="/material/colo-cam/demo.png">
-    <img src="{{ site.url }}/material/colo-cam/demo.png" alt="CoLo-CAM: Demo" width="800"> 
+    <img src="{{ site.url }}/material/colo-cam/demo.png" alt="CoLo-CAM: Demo" width="800">
   </a>
 </p>
 
@@ -68,7 +68,7 @@ by **Soufiane Belharbi<sup>1</sup>,  Shakeeb Murtaza<sup>1</sup>, Marco Pedersol
 <pre>
 @inproceedings{belharbi24-sr-caco-2,
   title={SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution},
-  author={Belharbi, S. and Whitford, M.K.M. and Hoang, P. and Murtaza, S. 
+  author={Belharbi, S. and Whitford, M.K.M. and Hoang, P. and Murtaza, S.
   and McCaffrey, L. and Granger, E.},
   booktitle={NeurIPS},
   year={2024}
@@ -81,8 +81,8 @@ by **Soufiane Belharbi<sup>1</sup>,  Shakeeb Murtaza<sup>1</sup>, Marco Pedersol
 ### Abstract
 
 Leveraging spatiotemporal information in videos is critical for weakly supervised video object localization (WSVOL) tasks. However, state-of-the-art methods only rely on visual and motion cues, while discarding discriminative information, making them susceptible to inaccurate localizations. Recently, discriminative models have been explored for WSVOL tasks using a temporal class activation mapping (CAM) method. Although their results are promising, objects are assumed to have limited movement from frame to frame, leading to degradation in performance for relatively long-term dependencies.
-This paper proposes a novel CAM method for WSVOL that exploits spatiotemporal information in activation maps during training without constraining an object's position. Its training relies on <i>Co</i>-<i>Lo</i>calization, hence, the name *CoLo-CAM*. 
-Given a sequence of frames, localization is jointly learned based on color cues extracted across the corresponding maps, by assuming that an object has similar color in consecutive frames. CAM activations are constrained to respond similarly over pixels with similar colors, achieving co-localization. This improves localization performance because the joint learning creates direct communication among pixels across all image locations and over all frames, allowing for transfer, aggregation, and correction of localizations. Co-localization is integrated into training by minimizing the color term of a conditional random field (CRF) loss over a sequence of frames/CAMs. 
+This paper proposes a novel CAM method for WSVOL that exploits spatiotemporal information in activation maps during training without constraining an object's position. Its training relies on <i>Co</i>-<i>Lo</i>calization, hence, the name *CoLo-CAM*.
+Given a sequence of frames, localization is jointly learned based on color cues extracted across the corresponding maps, by assuming that an object has similar color in consecutive frames. CAM activations are constrained to respond similarly over pixels with similar colors, achieving co-localization. This improves localization performance because the joint learning creates direct communication among pixels across all image locations and over all frames, allowing for transfer, aggregation, and correction of localizations. Co-localization is integrated into training by minimizing the color term of a conditional random field (CRF) loss over a sequence of frames/CAMs.
 Extensive experiments on two challenging YouTube-Objects datasets of unconstrained videos show the merits of our CoLo-CAM method, and its robustness to long-term dependencies, leading to new state-of-the-art performance for WSVOL task.
 Our code is publicly available: [github.com/sbelharbi/colo-cam](https://github.com/sbelharbi/colo-cam).
 
@@ -205,7 +205,7 @@ Despite its improvements, our method still holds some limitations. Our pixel pse
 
 Another issue is related to inference that is performed frame by by frame without leveraging temporal information in a video. The negative impact of this can be observed over a sequence of predictions which are characterized by localization inconsistencies. This is illustrated by large shift in localization where the bounding box (and the CAM activation), moves abruptly from one location at a frame to completely different location at the next frame. Prediction without accounting for temporal dependencies can easily lead to such results. Future works may consider improving the inference procedure by leveraging spatiotemporal information at the expense of inference time.
 
-We note that our method can use either CNN- or transformer-based architecture. The only requirement is that the architecture is able to perform both tasks: classification and localization. 
+We note that our method can use either CNN- or transformer-based architecture. The only requirement is that the architecture is able to perform both tasks: classification and localization.
 A vision transformer-based (ViT) model can be employed as an encoder. A standard classification head can be used to perform classification task. A new localization head is required to replace our decoder to perform localization task. An architecture similar to the one  presented in [this work](https://arxiv.org/pdf/2310.06196) can be used in our work which is expected to yield better performance compared to CNN-based model as reported in their work. We leave this aspect for future work.
 
 

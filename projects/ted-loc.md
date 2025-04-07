@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: home2
 permalink: /ted-loc/
 title: "TeD-Loc: Text Distillation for Weakly Supervised Object Localization (2025)"
 tags: [Weakly-supervised Object Localization (WSOL), CLIP, Vision-Language Models (VLMs), Deep Learning, Class Activation Maps (CAMs), Code, Github]
@@ -37,8 +37,8 @@ Marco Pedersoli<sup>1</sup>, Eric Granger<sup>1</sup>**
 ### Abstract
 
 Weakly supervised object localization (WSOL) using classification models trained with only image-class labels remains an important challenge in computer vision. Given their reliance on classification objectives, traditional WSOL methods like class activation mapping focus on the most discriminative object parts, often missing the full spatial extent. In contrast, recent WSOL methods based on vision-language models like CLIP require ground truth classes or external classifiers to produce a localization map, limiting their deployment in downstream tasks.   Moreover, methods like GenPromp attempt to address these issues but introduce considerable complexity due to their reliance on conditional denoising processes and intricate prompt learning.
-This paper introduces Text Distillation for Localization (TeD-Loc), an approach that directly distills knowledge from CLIP text embeddings into the model backbone and produces patch-level localization. Multiple instance learning of these image patches allows for accurate localization and classification using one model without requiring external classifiers. 
-Such integration of textual and visual modalities addresses the longstanding challenge of achieving accurate localization and classification concurrently, as WSOL methods in the literature typically converge at different epochs. 
+This paper introduces Text Distillation for Localization (TeD-Loc), an approach that directly distills knowledge from CLIP text embeddings into the model backbone and produces patch-level localization. Multiple instance learning of these image patches allows for accurate localization and classification using one model without requiring external classifiers.
+Such integration of textual and visual modalities addresses the longstanding challenge of achieving accurate localization and classification concurrently, as WSOL methods in the literature typically converge at different epochs.
 Extensive experiments show that leveraging text embeddings and localization cues provides a cost-effective WSOL model. TeD-Loc improves Top-1 Loc accuracy over state-of-the-art models by about 5% on both CUB and ILSVRC datasets, while significantly reducing computational complexity compared to GenPromp. Our code can be accessed at: [https://github.com/shakeebmurtaza/TeDLOC](https://github.com/shakeebmurtaza/TeDLOC).
 
 
