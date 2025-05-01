@@ -15,4 +15,4 @@ Montreal (Qc) H3C 1K3
 
 **Office**: A-3478
 
-**Email**: <img src="{{ site.url }}/images/{{ site.owner.email-img }}" alt="email">
+<!-- **Email**: <img src="{{ site.url }}/images/{{ site.owner.email-img }}" alt="email"> -->
