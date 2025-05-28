@@ -138,6 +138,7 @@ The public *BAH* dataset contains the row videos, detailed A/H annotation at vid
 **Evaluation metrics**. We refer here to the positive class as the class with label 1 indicating the presence of A/H, while negative class is the class 0 indicating the absence of A/H.
 To account for the imbalance in *BAH* dataset, we use adapted standard evaluation metrics: - F1 score of the positive class. - Weighted F1 (WF1) score which is a weighted average of \F1 of the positive and negative class. - Average precision score (AP) of the positive class which accounts for the performance sensitivity to the model's confidence. For AP score, a threshold list between 0 and 1 is used with a step of 0.001. Evaluation code of all measures is provided along with the public code of this dataset.
 
+<br />
 
 <p align="center">
 <a href="/material/bah-dataset/dataset-split.png"><img src="{{ site.url }}/material/bah-dataset/dataset-split.png"   alt="Dataset: splits" width="800"></a>
