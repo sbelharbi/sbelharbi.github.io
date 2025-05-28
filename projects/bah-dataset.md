@@ -107,17 +107,25 @@ The public *BAH* dataset contains the row videos, detailed A/H annotation at vid
 <a href="/material/bah-dataset/variability-1.png"><img src="{{ site.url }}/material/bah-dataset/variability-1.png"   alt="Dataset: variability" width="600"></a>
 </p>
 
+<br />
+
 <p align="center">
 <a href="/material/bah-dataset/variability-2.png"><img src="{{ site.url }}/material/bah-dataset/variability-2.png"   alt="Dataset: variability" width="600"></a>
 </p>
+
+<br />
 
 <p align="center">
 <a href="/material/bah-dataset/variability-3.png"><img src="{{ site.url }}/material/bah-dataset/variability-3.png"   alt="Dataset: variability" width="600"></a>
 </p>
 
+<br />
+
 <p align="center">
 <a href="/material/bah-dataset/variability-4.png"><img src="{{ site.url }}/material/bah-dataset/variability-4.png"   alt="Dataset: variability" width="600"></a>
 </p>
+
+<br />
 
 <p align="center">
 <a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-5.png"   alt="Dataset: variability" width="600"></a>
