@@ -25,7 +25,7 @@ Eric Granger<sup>1</sup>**
 <br/>
 <sup>2</sup> LIVIA, Dept. of Software and IT Engineering, ETS Montreal, Canada
 <br/>
-<sup>3</sup> Dept. of Health, Kinesiology, \& Applied Physiology, Concordia University, Montreal, Canada
+<sup>3</sup> Dept. of Health, Kinesiology, & Applied Physiology, Concordia University, Montreal, Canada
 <br/>
 <sup>4</sup> Montreal Behavioural Medicine Centre, CIUSSS Nord-de-l’Ile-de-Montréal, Canada
 
