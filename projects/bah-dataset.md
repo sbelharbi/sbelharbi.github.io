@@ -44,7 +44,7 @@ Eric Granger<sup>1</sup>**
 <br />
 
 <p align="center">
-  <a href="/material/bah-dataset/nutrition-label.png"><img src="{{ site.url }}/material/bah-dataset/nutrition-label.png" alt="BAH Dataset: Nutrition label" width="600"> </a>
+  <a href="/material/bah-dataset/nutrition-label.jpg"><img src="{{ site.url }}/material/bah-dataset/nutrition-label.jpg" alt="BAH Dataset: Nutrition label" width="600"> </a>
 </p>
 
 <br />
