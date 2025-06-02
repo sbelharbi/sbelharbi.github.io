@@ -10,6 +10,7 @@ Full, and up-to-date publications: <a style="display: inline;" href="http://scho
 
 
 #### 2025
+* Jun. 2025: New arXiv, [*“CLIP-IT: CLIP-based Pairing for Histology Images Classification”*](https://arxiv.org/pdf/2504.16181). [<a href="https://arxiv.org/pdf/2504.16181">arXiv</a>][<a href="https://github.com/BanafshehKarimian/ModalityPairing">Code</a>]
 * May 2025: New arXiv, [*“BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change”*](https://arxiv.org/pdf/2505.19328). [<a href="https://arxiv.org/pdf/2505.19328">arXiv</a>][<a href="https://github.com/sbelharbi/bah-dataset">Code</a>][<a href="https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-">Dataset Download</a>][<a href="/bah-dataset">Page</a>]
 * FG 2025, [*“Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data”*](https://arxiv.org/pdf/2503.20771). [<a href="https://arxiv.org/pdf/2503.20771">arXiv</a>][<a href="https://github.com/MasoumehSharafi/DSFDA-for-Pain-Assessment">Code</a>]
 * MIDL 2025, [*“PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization”*](https://arxiv.org/pdf/2503.24135). [<a href="https://arxiv.org/pdf/2503.24135">arXiv</a>][<a href="https://github.com/alexisguichemerrecode/pixelcam">Code</a>]
