@@ -82,6 +82,8 @@ Additionally, this paper provides preliminary benchmarking results baseline mode
 <a href="/material/bah-dataset/data-capturing.png"><img src="{{ site.url }}/material/bah-dataset/data-capturing.png"   alt="Dataset capture" width="800"></a>
 </p>
 
+<br />
+
 <p align="center">
 <a href="/material/bah-dataset/7-questions.png"><img src="{{ site.url }}/material/bah-dataset/7-questions.png"   alt="Dataset capture: 7 questions" width="800"></a>
 </p>
