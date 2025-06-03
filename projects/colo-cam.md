@@ -48,16 +48,19 @@ by **Soufiane Belharbi<sup>1</sup>,  Shakeeb Murtaza<sup>1</sup>, Marco Pedersol
 
 
 <br />
+{% assign lb = "{" %}
+{% assign rb = "}" %}
+{{ foo }}
 
-```latex
+```bibtex
 @article{belharbi2025colocam,
-  title={CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos},
-  author={Belharbi, S. and Murtaza, S. and Pedersoli, M. and Ben Ayed, I. and
-  McCaffrey, L. and Granger, E.},
-  journal={Pattern Recognition},
-  volume={162},
-  pages={111358},
-  year={2025}
+  title="{{ lb }}CoLo-CAM{{ rb }}: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos",
+  author="Belharbi, S. and Murtaza, S. and Pedersoli, M. and Ben Ayed, I. and
+  McCaffrey, L. and Granger, E.",
+  journal="Pattern Recognition",
+  volume="162",
+  pages="111358",
+  year="2025"
 }
 ```
 

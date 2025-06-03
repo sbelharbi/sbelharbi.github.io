@@ -24,13 +24,17 @@ Marco Pedersoli<sup>1</sup>, Eric Granger<sup>1</sup>**
 
 <br />
 
-```latex
+{% assign lb = "{" %}
+{% assign rb = "}" %}
+{{ foo }}
+
+```bibtex
 @article{murtaza24tedloc,
-  title={TeD-Loc: Text Distillation for Weakly Supervised Object Localization},
-  author={Murtaza, S. and Belharbi, S. and  Pedersoli, M. and Granger, E.},
-  journal={CoRR},
-  volume={abs/2501.12632},
-  year={2025}
+  title="{{ lb }}TeD-Loc{{ rb }}: Text Distillation for Weakly Supervised Object Localization",
+  author="Murtaza, S. and Belharbi, S. and  Pedersoli, M. and Granger, E.",
+  journal="CoRR",
+  volume="abs/2501.12632",
+  year="2025"
 }
 ```
 

@@ -25,7 +25,7 @@ Marco Pedersoli<sup>1</sup>, Eric Granger<sup>1</sup>**
 <br />
 
 
-```latex
+```bibtex
 @inproceedings{murtaza25realistic,
   title    = {A Realistic Protocol for Evaluation of Weakly Supervised Object Localization},
   author   = {Murtaza, S. and Belharbi, S. and Pedersoli, M. and Granger, E.},
