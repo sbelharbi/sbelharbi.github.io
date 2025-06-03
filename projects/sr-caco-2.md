@@ -42,12 +42,16 @@ Canada
 
 <br />
 
-```latex
+{% assign lb = "{" %}
+{% assign rb = "}" %}
+{{ foo }}
+
+```bibtex
 @inproceedings{belharbi24-sr-caco-2,
-  title={{SR-CACO-2}: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution},
-  author={Belharbi, S. and Whitford, M.K.M. and Hoang, P. and Murtaza, S. and McCaffrey, L. and Granger, E.},
-  booktitle={NeurIPS},
-  year={2024}
+  title="{{ lb }}SR-CACO-2{{ rb }}: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution",
+  author="Belharbi, S. and Whitford, M.K.M. and Hoang, P. and Murtaza, S. and McCaffrey, L. and Granger, E.",
+  booktitle="NeurIPS",
+  year="2024"
 }
 ```
 
