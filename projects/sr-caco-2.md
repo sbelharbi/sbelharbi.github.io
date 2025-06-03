@@ -44,7 +44,7 @@ Canada
 
 ```latex
 @inproceedings{belharbi24-sr-caco-2,
-  title={SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution},
+  title={{SR-CACO-2}: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution},
   author={Belharbi, S. and Whitford, M.K.M. and Hoang, P. and Murtaza, S. and McCaffrey, L. and Granger, E.},
   booktitle={NeurIPS},
   year={2024}
