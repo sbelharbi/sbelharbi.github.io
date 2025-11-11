@@ -22,7 +22,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 ## News
 
-* Nov. 2025: WACV 2026, [*“CLIP-IT: CLIP-based Pairing for Histology Images Classification”*](https://arxiv.org/pdf/2504.16181). [<a href="https://arxiv.org/pdf/2504.16181">arXiv</a>][<a href="https://github.com/BanafshehKarimian/ModalityPairing">Code</a>]
+* Nov. 2025: WACV 2026, [*“CLIP-IT: CLIP-based Pairing of Histology Images with Privileged Textual Information”*](https://arxiv.org/pdf/2504.16181). [<a href="https://arxiv.org/pdf/2504.16181">arXiv</a>][<a href="https://github.com/BanafshehKarimian/ModalityPairing">Code</a>]
 * Oct. 2025: Talk ICCV2025 - ABAW9, [*“BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change”*](/otherdocs/Soufiane-Belharbi-BAH-Dataset-ICCV2025-ABAW9-presentation.pdf). [<a href="/otherdocs/Soufiane-Belharbi-BAH-Dataset-ICCV2025-ABAW9-presentation.pdf">Slides</a>]
 * Aug. 2025: New arXiv, [*“Personalized Feature Translation for Expression Recognition: An Efficient Source-Free Domain Adaptation Method”*](https://arxiv.org/pdf/2508.09202). [<a href="https://arxiv.org/pdf/2508.09202">arXiv</a>][<a href="https://github.com/MasoumehSharafi">Code - Soon</a>]
 * May 2025: New arXiv, [*“BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change”*](https://arxiv.org/pdf/2505.19328). [<a href="https://arxiv.org/pdf/2505.19328">arXiv</a>][<a href="https://github.com/sbelharbi/bah-dataset">Code</a>][<a href="https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-">Dataset Download</a>][<a href="/bah-dataset">Page</a>]
