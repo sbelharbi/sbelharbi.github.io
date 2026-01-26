@@ -11,7 +11,7 @@ Full, and up-to-date publications: <a style="display: inline;" href="http://scho
 #### 2026
 
 * Jan. 2026: ICLR 2026, [*“Personalized Feature Translation for Expression Recognition: An Efficient Source-Free Domain Adaptation Method”*](https://arxiv.org/pdf/2508.09202). [<a href="https://arxiv.org/pdf/2508.09202">arXiv</a>][<a href="https://github.com/MasoumehSharafi">Code - Soon</a>]
-* Jan. 2026: ICLR 2026, [*“BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change”*](https://arxiv.org/pdf/2505.19328). [<a href="https://arxiv.org/pdf/2505.19328">arXiv</a>][<a href="https://github.com/sbelharbi/bah-dataset">Code</a>][<a href="https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-">Dataset Download</a>][<a href="/bah-dataset">Page</a>]
+* Jan. 2026: ICLR 2026, [*“BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Digital Behavioural Change”*](https://arxiv.org/pdf/2505.19328). [<a href="https://arxiv.org/pdf/2505.19328">arXiv</a>][<a href="https://github.com/sbelharbi/bah-dataset">Code</a>][<a href="https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-">Dataset Download</a>][<a href="/bah-dataset">Page</a>]
 
 #### 2025
 * Nov. 2025: WACV 2026, [*“CLIP-IT: CLIP-based Pairing of Histology Images with Privileged Textual Information”*](https://arxiv.org/pdf/2504.16181). [<a href="https://arxiv.org/pdf/2504.16181">arXiv</a>][<a href="https://github.com/BanafshehKarimian/ModalityPairing">Code</a>]
