@@ -56,7 +56,7 @@ Eric Granger<sup>1</sup>**
 
 
 ```bibtex
-@inproceedings{gonzalez-25-bah,
+@inproceedings{gonzalez-26-bah,
   title="{{ lb }}BAH{{ rb }} Dataset for Ambivalence/Hesitancy Recognition in Videos for Digitial Behavioural Change",
   author="González-González, M. and Belharbi, S. and Zeeshan, M. O. and Sharafi, M. and Aslam, M. H and Pedersoli, M. and Koerich, A. L. and Bacon, S. L. and Granger, E.",
   booktitle={ICLR},
