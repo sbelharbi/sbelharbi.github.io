@@ -112,10 +112,6 @@ The data, code, and pretrained weights are publicly available.: [github.com/sbel
 [BAH-DATSET-REQUEST](https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-).
 
 
-### Contact
-<img src="{{ site.url }}/images/livia-datasets-electro-contact.png" alt="hello">
-
-
 ### *BAH*: Capture & Annotation
 <p align="center">
 <a href="/material/bah-dataset/data-capturing.png"><img src="{{ site.url }}/material/bah-dataset/data-capturing.png"   alt="Dataset capture" width="800"></a>
