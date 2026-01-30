@@ -29,11 +29,16 @@ Eric Granger<sup>1</sup>**
 <br/>
 <sup>4</sup> Montreal Behavioural Medicine Centre, CIUSSS Nord-de-l’Ile-de-Montréal, Canada
 
+**Contact**: <img src="{{ site.url }}/images/livia-datasets-electro-contact.png" alt="livia-datasets">
 
 [![Download](https://img.shields.io/badge/Dataset%20Download-blue?logo=openaccess)](https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19328-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2505.19328)
 [![Github](https://img.shields.io/badge/Github-bah--dataset-brightgreen.svg?logo=github)](https://github.com/sbelharbi/bah-dataset)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/sbelharbi/bah-dataset)
+
+
+
+
 
 <br />
 
@@ -106,6 +111,9 @@ The data, code, and pretrained weights are publicly available.: [github.com/sbel
 **THIS BAH DATASET IS LICENSED UNDER PROPRIETARY LICENSE FOR RESEARCH ONLY. TO REQUEST THE DATASET PLEASE FOLLOW THESE INSTRUCTIONS:**
 [BAH-DATSET-REQUEST](https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-).
 
+
+### Contact
+<img src="{{ site.url }}/images/livia-datasets-electro-contact.png" alt="hello">
 
 
 ### *BAH*: Capture & Annotation
