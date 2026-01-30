@@ -125,17 +125,19 @@ The data, code, and pretrained weights are publicly available.: [github.com/sbel
 
 ### *BAH*: Variability
 The dataset is designed to approximate the demographic distribution of sex and provincial representation in Canada.
-The *BAH* dataset is composed of 224 participant across Canada from nine provinces where 31.2% of participants is from British Columbia followed by Alberta with 20.5% and Quebec with 16.5% .
+The *BAH* dataset is composed of 300 participant across Canada from nine provinces where 25.7% of participants is from British Columbia followed by Alberta with 19.7% and Ontario with 17.3%.
 
-All participants agreed to be part of this dataset. However, 50 participants (22.3%) did not consent to be in publications while only seven participants (3.1%) did not consent to be part of challenges. The recorded videos contain both English and French languages.
-Each participant can record up to seven videos where 96 participants have recorded the full seven videos. We obtained an average of ${\sim5}$ videos/participant where each participant has an average of ${\sim2.84}$ videos with A/H which is equivalent to ${\sim585}$ frames of A/H (or $\sim24.15$ seconds of A/H). The dataset amounts a total of 1,118 videos (${\sim 8.26}$ hours) where 638 videos contain A/H (${\sim 1.50}$ hours). This amounts to 714,005 total frames where 131,103 contain A/H. Since captured videos represent answers to questions, they are relatively short. *BAH* dataset has an average video duration of ${26.58 \pm 16.36}$ (seconds) with a minimum and maximum duration of 3 and 96 seconds.
+All participants agreed to be part of this dataset. However, 61 participants (20.3%) did not consent to be in publications while only seven participants (2.3%) did not consent to be part of challenges. The recorded videos are majority in English language and very few are in French language.
+Each participant can record up to seven videos where 113 participants have recorded the full seven videos. We obtained an average of ${\sim4.75}$ videos/participant where each participant has an average of ${\sim2.59}$ videos with A/H which is equivalent to ${\sim520.85}$ frames of A/H (or $\sim21.49$ seconds of A/H). The dataset amounts a total of 1,427 videos (${\sim10.60}$ hours) where 778 videos contain A/H (${\sim 1.79}$ hours). This amounts to 916,618 total frames where 156,255 contain A/H. Since captured videos represent answers to questions, they are relatively short. *BAH* dataset has an average video duration of ${26.76 \pm 16.47}$ (seconds) with a minimum and maximum duration of 3 and 96 seconds.
 
-An important characteristic of this dataset is the duration of the A/H segments in videos. *BAH* counts a total of 376 videos with multiple A/H segments and 259 videos with only one A/H segment. In total, there are 1,274 A/H segments.
-In particular, the duration of segment varies but it is brief with an average of ${4.25 \pm 2.47}$ seconds which is equivalent to ${102.92 \pm 59.16}$ frames. The minimum and maximum A/H segment is 0.01 seconds (1 frame), and 23.8 seconds (572 frames), respectively.
+An important characteristic of this dataset is the duration of the A/H segments in videos. *BAH* counts a total of 443 videos with multiple A/H segments and 332 videos with only one A/H segment. In total, there are 1,504 A/H segments.
+In particular, the duration of segments varies but it is brief with an average of ${4.29 \pm 2.45}$ seconds which is equivalent to ${103.89 \pm 58.70}$ frames. The minimum and maximum A/H segment is 0.004 seconds (1 frame), and 23.8 seconds (572 frames), respectively.
 
-In terms of participants age, the dataset covers a large range from 18 to 66 years old. In particular, 37.1% of the participants covers the range 25-34 years, followed by the range of 35-44 years with 25.9%, then the range of 18-24 with 21.9%. In terms of sex, 59.8% are male, while 39.3 are female. As for ethnicity variation, White comes with 52.2% of the participants, followed by Asian with 21.0%, and Mixed with 11.6%, then Black with 10.3%. Large part of the participants are not students (65.2%) which limits common issues in recruit bias.
+In terms of participants age, the dataset covers a large range from 18 to 74 years old. In particular, 37.7% of the participants covers the range 25-34 years, followed by the range of 35-44 years with 24.3%, then the range of 18-24 with 20.7%. In terms of sex, 52.0% are female, while 47.3 are male. As for ethnicity variation, White comes with 54.0% of the participants, followed by Asian with 21.0%, and Mixed with 10.7%, then Black with 9.7%. Large part of the participants are not students (67.0%) which limits common issues in recruit bias.
 
-The public *BAH* dataset contains the row videos, detailed A/H annotation at video- and frame-level, cues, and per participant demographic information including age, birth country, Canada province where the participant lives, ethnicity, ethnicity simplified, sex, student status, consent to use recordings in publications.
+The public *BAH* dataset contains the row videos, detailed A/H annotation at video- and frame-level, cues, and per participant demographic information including age, birth country, Canada province where the participant lives, ethnicity, ethnicity simplified, sex, student status, consent to use recordings in publications. More details about the dataset diversity are provided in the appendix of the paper.
+
+
 
 <br />
 
@@ -168,12 +170,54 @@ The public *BAH* dataset contains the row videos, detailed A/H annotation at vid
 <a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-5.png"   alt="Dataset: variability" width="600"></a>
 </p>
 
+<br />
+
+<p align="center">
+<a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-6.png"   alt="Dataset: variability" width="600"></a>
+</p>
+
+<br />
+
+<p align="center">
+<a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-7.png"   alt="Dataset: variability" width="600"></a>
+</p>
+
+<br />
+
+<p align="center">
+<a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-8.png"   alt="Dataset: variability" width="600"></a>
+</p>
+
+<br />
+
+<p align="center">
+<a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-9.png"   alt="Dataset: variability" width="600"></a>
+</p>
+
+<br />
+
+<p align="center">
+<a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-10.png"   alt="Dataset: variability" width="600"></a>
+</p>
+
+<br />
+
+<p align="center">
+<a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-11.png"   alt="Dataset: variability" width="600"></a>
+</p>
+
+<br />
+
+<p align="center">
+<a href="/material/bah-dataset/variability-5.png"><img src="{{ site.url }}/material/bah-dataset/variability-12.png"   alt="Dataset: variability" width="600"></a>
+</p>
+
 
 ### *BAH*: Experimental Protocol
-**Dataset split**. The dataset is divided randomly based on participants into 3 sets: train, validation and test set. The train and validation sets amounts to 3/4 of the total participants, while 1/4 goes to the test set. Videos of one participants belong to one and one set only. The details of each set is presented in the following tables. The split files are provided along with the dataset files. They contain the split in terms of videos and frames ready to use. Note that the dataset is highly imbalanced, especially at frame level where only 18.15% contains A/H. This factor should be accounted for during training and evaluation. The dataset can be used for training at video- and/or frame-level. The participant identifiers are provided in the splits allowing subject-based learning scenarios.
+**Dataset split**. The dataset is divided randomly based on participants into 3 sets: train (195 participants), validation (30 participants) and test (75 participants) set. We ensured that the 3 splits represent the total data distribution. The train and validation sets amounts to 3/4 of the total participants, while 1/4 goes to the test set. Videos of one participants belong to one and one set only. The details of each set is presented in the following tables. The split files are provided along with the dataset files. They contain the split in terms of videos and frames ready to use. Note that the dataset is highly imbalanced, especially at frame level where only 17.04% contains A/H. This factor should be accounted for during training and evaluation. The dataset can be used for training at video- and/or frame-level. The participant identifiers are provided in the splits allowing subject-based learning scenarios.
 
 **Evaluation metrics**. We refer here to the positive class as the class with label 1 indicating the presence of A/H, while negative class is the class 0 indicating the absence of A/H.
-To account for the imbalance in *BAH* dataset, we use adapted standard evaluation metrics: - F1 score of the positive class. - Weighted F1 (WF1) score which is a weighted average of \F1 of the positive and negative class. - Average precision score (AP) of the positive class which accounts for the performance sensitivity to the model's confidence. For AP score, a threshold list between 0 and 1 is used with a step of 0.001. Evaluation code of all measures is provided along with the public code of this dataset.
+To account for the imbalance in *BAH* dataset, we use adapted standard evaluation metrics: - Average F1 (WF1) score which is the unweighted mean of F1 of the positive and negative class. - Average precision score (AP) of the positive class which accounts for the performance sensitivity to the model's confidence. For AP score, a threshold list between 0 and 1 is used with a step of 0.001. Evaluation code of all measures is provided along with the public code of this dataset.
 
 <br />
 
@@ -184,7 +228,7 @@ To account for the imbalance in *BAH* dataset, we use adapted standard evaluatio
 <br />
 
 <p align="center">
-<a href="/material/bah-dataset/dataset-imbalance.png"><img src="{{ site.url }}/material/bah-dataset/dataset-imbalance.png"   alt="Dataset: imbalance" width="800"></a>
+<a href="/material/bah-dataset/dataset-imbalance.png"><img src="{{ site.url }}/material/bah-dataset/dataset-imbalance.png"   alt="Dataset: imbalance" width="1000"></a>
 </p>
 
 
@@ -193,13 +237,13 @@ To account for the imbalance in *BAH* dataset, we use adapted standard evaluatio
 #### 1) Frame-level supervised classification using multimodal
 
 <p align="center">
-<a href="/material/bah-dataset/multimodal.png"><img src="{{ site.url }}/material/bah-dataset/multimodal.png"   alt="Dataset: multimodal" width="900"></a>
+<a href="/material/bah-dataset/multimodal.png"><img src="{{ site.url }}/material/bah-dataset/multimodal.png"   alt="Dataset: multimodal" width="600"></a>
 </p>
 
 <br />
 
 <p align="center">
-<a href="/material/bah-datset/frame-multimodal.png"><img src="{{ site.url }}/material/bah-dataset/frame-multimodal.png"   alt="Dataset: Frame - multimodal" width="800"></a>
+<a href="/material/bah-datset/frame-multimodal.png"><img src="{{ site.url }}/material/bah-dataset/frame-multimodal.png"   alt="Dataset: Frame - multimodal" width="600"></a>
 </p>
 
 <br />
@@ -213,27 +257,27 @@ To account for the imbalance in *BAH* dataset, we use adapted standard evaluatio
 #### 2) Video-level supervised classification using multimodal
 
 <p align="center">
-<a href="/material/bah-datset/video-performance.png"><img src="{{ site.url }}/material/bah-dataset/video-performance.png"   alt="Dataset: Video - performance" width="800"></a>
+<a href="/material/bah-datset/video-performance.png"><img src="{{ site.url }}/material/bah-dataset/video-performance.png"   alt="Dataset: Video - performance" width="600"></a>
 </p>
 
 
 #### 3) Zero-shot performance: Frame- & video-level
 
 <p align="center">
-<a href="/material/bah-datset/zero-shot-frame.png"><img src="{{ site.url }}/material/bah-dataset/zero-shot-frame.png"   alt="Dataset: Zero shot - frame - performance" width="800"></a>
+<a href="/material/bah-datset/zero-shot-frame.png"><img src="{{ site.url }}/material/bah-dataset/zero-shot-frame.png"   alt="Dataset: Zero shot - frame - performance" width="600"></a>
 </p>
 
 <br />
 
 <p align="center">
-<a href="/material/bah-datset/zero-shot-video.png"><img src="{{ site.url }}/material/bah-dataset/zero-shot-video.png"   alt="Dataset: Zero shot - video - performance" width="800"></a>
+<a href="/material/bah-datset/zero-shot-video.png"><img src="{{ site.url }}/material/bah-dataset/zero-shot-video.png"   alt="Dataset: Zero shot - video - performance" width="600"></a>
 </p>
 
 
 #### 4) Personalization using domain adaptation (frame-level)
 
 <p align="center">
-<a href="/material/bah-datset/personalization-da.png"><img src="{{ site.url }}/material/bah-dataset/personalization-da.png"   alt="Dataset: Personalization- domain adaptation - performance" width="800"></a>
+<a href="/material/bah-datset/personalization-da.png"><img src="{{ site.url }}/material/bah-dataset/personalization-da.png"   alt="Dataset: Personalization- domain adaptation - performance" width="1000"></a>
 </p>
 
 
