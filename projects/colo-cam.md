@@ -16,7 +16,6 @@ by **Soufiane Belharbi<sup>1</sup>,  Shakeeb Murtaza<sup>1</sup>, Marco Pedersol
 [![arXiv](https://img.shields.io/badge/arXiv-2406.09168-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2303.09044)
 [![Github](https://img.shields.io/badge/Github-colo--cam-brightgreen.svg?logo=github)](https://github.com/sbelharbi/colo-cam)
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.patcog.2025.111358-lightgreen?logo=doi&logoColor=FAB70C)](https://doi.org/10.1016/j.patcog.2025.111358)
-[![Free Access](https://img.shields.io/badge/Temporary%20Journal%20Free%20Access:%20March--14--2025-blue?logo=openaccess)](https://authors.elsevier.com/a/1kUV-77nKs8lu)
 
 
 
