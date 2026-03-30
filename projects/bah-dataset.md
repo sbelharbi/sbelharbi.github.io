@@ -95,10 +95,9 @@ Canada, answering predefined questions to elicit A/H.
 It is intended to mirror real-world digital behaviour change interventions
 delivered online. *BAH* is annotated by three experts to provide timestamps that
 indicate where A/H occurs, and frame- and video-level annotations with A/H
-cues. Video transcripts,  
-cropped and aligned faces, and participant metadata are also provided.
-Since A and H manifest similarly in practice, we provide a binary annotation
-indicating the presence or absence of A/H.
+cues. Video transcripts, cropped and aligned faces, and participant metadata are
+also provided. Since A and H manifest similarly in practice, we provide a binary
+annotation indicating the presence or absence of A/H.
 Additionally, this paper includes benchmarking results using baseline models on
 *BAH* for frame- and video-level recognition, zero-shot prediction, and
 personalization with source-free domain adaptation methods. The limited
