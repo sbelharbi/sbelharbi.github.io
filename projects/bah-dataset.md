@@ -111,7 +111,7 @@ The data, code, and pretrained weights are publicly available:
 
 ### License / Download
 **THIS BAH DATASET IS LICENSED UNDER PROPRIETARY LICENSE FOR RESEARCH ONLY. TO REQUEST THE DATASET PLEASE FOLLOW THESE INSTRUCTIONS:**
-[BAH-DATSET-REQUEST](https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-).
+[BAH-DATSET-REQUEST](https://github.com/LIVIAETS/bah-dataset?tab=readme-ov-file#-bah-dataset-download-).
 
 
 ### *BAH*: Capture & Annotation
