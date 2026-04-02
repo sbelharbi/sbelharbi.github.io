@@ -6,7 +6,7 @@ tags: [machine learning, neural networks, deep learning, learning representation
 image:
   feature: rouen2.jpg
 ---
-My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](https://liviamtl.ca/) in collaboration with [McCaffrey Lab. / GCRC McGill](https://mccaffreylab.mcgill.ca/McCaffreyLab.html). I am working with [Eric Granger](https://www.etsmtl.ca/en/research/professors/egranger), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://mcgillgcrc.com/research/members/mccaffrey) on training neural networks with weak supervision.
+My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](https://www.etsmtl.ca/en/labs/livia) in collaboration with [McCaffrey Lab. / GCRC McGill](https://mccaffreylab.mcgill.ca/). I am working with [Eric Granger](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/egranger), [Ismail Ben Ayed](http://profs.etsmtl.ca/ibenayed/), and [Luke McCaffrey](https://www.mcgill.ca/sbms/luke-mccaffrey) on training neural networks with weak supervision.
 
 <!-- <br/>
 <br/> -->
