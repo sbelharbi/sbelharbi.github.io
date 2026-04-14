@@ -9,6 +9,7 @@ comments: false
 Full, and up-to-date publications: <a style="display: inline;" href="http://scholar.google.com/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i> G. Scholar</a>
 
 #### 2026
+* arXiv, [*“Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions”*](https://arxiv.org/pdf/2604.11730). [<a href="https://arxiv.org/pdf/2604.11730">arXiv</a>][<a href="https://github.com/sbelharbi/ah-digital-health-interventions">Code</a>]
 * arXiv, [*“Longitudinal Risk Prediction in Mammography with Privileged History Distillation”*](https://arxiv.org/pdf/2603.15814). [<a href="https://arxiv.org/pdf/2603.15814">arXiv</a>][<a href="https://github.com/BanafshehKarimian/PHD">Code</a>]
 * arXiv, [*“Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos”*](https://arxiv.org/pdf/2603.21309). [<a href="https://arxiv.org/pdf/2603.21309">arXiv</a>][<a href="https://github.com/MasoumehSharafi/TTA-CaP">Code</a>]
 * arXiv, [*“Adaptation of Weakly Supervised Localization in Histopathology by Debiasing Predictions”*](https://arxiv.org/pdf/2603.12468). [<a href="https://arxiv.org/pdf/2603.12468">arXiv</a>][<a href="https://anonymous.4open.science/r/SFDA-DeP-1797/">Code</a>]
