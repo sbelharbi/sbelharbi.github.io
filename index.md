@@ -21,7 +21,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
-* Apr. 2026: New arXiv, [*“Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions”*](https://arxiv.org/pdf/2604.11730). [<a href="https://arxiv.org/pdf/2604.11730">arXiv</a>][<a href="https://github.com/sbelharbi/ah-digital-health-interventions">Code</a>]
+* Apr. 2026: New arXiv, [*“Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions”*](https://arxiv.org/pdf/2604.11730). [<a href="https://arxiv.org/pdf/2604.11730">arXiv</a>][<a href="https://github.com/sbelharbi/ah-digital-health-interventions">Code</a>]
 * Mar. 2026: New arXiv, [*“Longitudinal Risk Prediction in Mammography with Privileged History Distillation”*](https://arxiv.org/pdf/2603.15814). [<a href="https://arxiv.org/pdf/2603.15814">arXiv</a>][<a href="https://github.com/BanafshehKarimian/PHD">Code</a>]
 * Mar. 2026: New arXiv, [*“Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos”*](https://arxiv.org/pdf/2603.21309). [<a href="https://arxiv.org/pdf/2603.21309">arXiv</a>][<a href="https://github.com/MasoumehSharafi/TTA-CaP">Code</a>]
 * Mar. 2026: New arXiv, [*“Adaptation of Weakly Supervised Localization in Histopathology by Debiasing Predictions”*](https://arxiv.org/pdf/2603.12468). [<a href="https://arxiv.org/pdf/2603.12468">arXiv</a>][<a href="https://anonymous.4open.science/r/SFDA-DeP-1797/">Code</a>]
