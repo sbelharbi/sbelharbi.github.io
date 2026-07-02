@@ -33,7 +33,7 @@ Eric Granger<sup>1</sup>**
 
 [![Download](https://img.shields.io/badge/Dataset%20Download-blue?logo=openaccess)](https://github.com/LIVIAETS/bah-dataset?tab=readme-ov-file#-bah-dataset-download-)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19328-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2505.19328)
-[![Github](https://img.shields.io/badge/Github-bah--dataset-brightgreen.svg?logo=github)](https://github.com/sbelharbi/bah-dataset)
+[![Github](https://img.shields.io/badge/Github-bah--dataset-brightgreen.svg?logo=github)](https://github.com/LIVIAETS/bah-dataset)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/sbelharbi/bah-dataset)
 [![Slides](https://img.shields.io/badge/Slides-green)](/material/bah-dataset/ICLR2026-presentation-BAH.pdf)
 [![Poster](https://img.shields.io/badge/Poster-orange)](/material/bah-dataset/ICLR2026-poster-BAH.pdf)
