@@ -31,6 +31,7 @@ Eric Granger<sup>1</sup>**
 
 **Contact**: <img src="{{ site.url }}/images/livia-datasets-electro-contact.png" alt="livia-datasets">
 
+[![Page](https://img.shields.io/badge/Dataset%20Webpage-orange)](https://www.etsmtl.ca/en/labs/livia/datasets/bah-ambivalence-hesitancy)
 [![Download](https://img.shields.io/badge/Dataset%20Download-blue?logo=openaccess)](https://github.com/LIVIAETS/bah-dataset?tab=readme-ov-file#-bah-dataset-download-)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19328-b31b1b.svg?logo=arxiv&logoColor=B31B1B)](https://arxiv.org/pdf/2505.19328)
 [![Github](https://img.shields.io/badge/Github-bah--dataset-brightgreen.svg?logo=github)](https://github.com/LIVIAETS/bah-dataset)
