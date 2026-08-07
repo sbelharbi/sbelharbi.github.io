@@ -55,7 +55,10 @@ Full, and up-to-date publications: <a style="display: inline;" href="http://scho
 * ICPR tutorial, [*“Deep Learning Models for Weakly-Supervised Object Localization and Segmentation”*]({{ site.url }}/icpr-2022-tutorial-wsl/). [<a href="/icpr-2022-tutorial-wsl">Page</a>][<a href="/publications/icpr-tutorial-wsl-2022/slides.pdf">Slides</a>]
 * MIDL 2022, [*“Negative Evidence Matters in Interpretable Histology Image Classification”*](https://arxiv.org/pdf/2201.02445). [<a href="https://arxiv.org/pdf/2201.02445">arXiv</a>][<a href="https://github.com/sbelharbi/negev">Code</a>]
 * WACV 2022, [*“F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling”*](https://arxiv.org/pdf/2109.07069). [<a href="https://arxiv.org/pdf/2109.07069">arXiv</a>][<a href="https://github.com/sbelharbi/fcam-wsol">Code</a>]
+* WACV 2021, [*“Deep Active Learning for Joint Classification & Segmentation with Weak Annotator”*](https://arxiv.org/pdf/2010.04889). [<a href="https://arxiv.org/pdf/2010.04889">arXiv</a>][<a href="https://github.com/sbelharbi/deep-active-learning-for-joint-classification-and-segmentation-with-weak-annotator">Code</a>]
 * TMI journal, [*“Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty”*](https://arxiv.org/pdf/2011.07221). [<a href="https://arxiv.org/pdf/2011.07221">arXiv</a>][<a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">Code</a>]
+
+
 
 
 #### 2019
