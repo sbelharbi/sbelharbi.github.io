@@ -6,7 +6,7 @@ tags: [publications]
 comments: false
 ---
 
-Full, and up-to-date publications: <a style="display: inline;" href="http://scholar.google.com/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i> G. Scholar</a>
+Full and up-to-date publications: <a style="display: inline;" href="http://scholar.google.com/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i> G. Scholar</a>
 
 #### 2026
 * New arXiv, [*“Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery”*](https://arxiv.org/pdf/2608.02883). [<a href="https://arxiv.org/pdf/2608.02883">arXiv</a>][<a href="https://github.com/ninaa-git/survey_pc_registration_tta">Code</a>]
