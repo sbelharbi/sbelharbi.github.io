@@ -6,6 +6,15 @@ tags: [publications]
 comments: false
 ---
 
+
+## Challenges
+* Jun. 2026: *New challenge is open now @ 11TH ABAW @ ECCV 2026*. [*“Ambivalence/Hesitancy (AH) Video Recognition Challenge, 3rd Edition, at 11th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)”*](https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1). [<a href="/otherdocs/abaw-11th-ah-3rd/Leaderboard_of_AH_3rd_ABAW11th___ECCV_2026.pdf">Leaderboard</a>][<a href="/otherdocs/abaw-11th-ah-3rd/Summary_of_ABAW-11th-AH-3rd-ECCV-2026.pdf">Slides</a>][<a href="https://drive.google.com/file/d/1nLprNq1Sxl8ZT8G462hxKYrQa1Eomy27/view?usp=sharing">ABAW11 Leaderboards</a>][<a href="https://affective-behavior-analysis-in-the-wild.github.io/11th/#counts1">ABAW Page</a>][<a href="/otherdocs/abaw-11th-ah-3rd/Call--Ambivalence-Hesitancy-AH-Video-Recognition-Challenge-3rd--ABAW11th-ECCV-2026.pdf">Details</a>][<a href="https://www.linkedin.com/pulse/call-affective-computing-challenge-participation-11th-belharbi-bq2pe">LinkedIn Post</a>]
+* Feb. 2026: *New challenge is open now @ 10TH ABAW @ CVPR 2026*. [*“Ambivalence/Hesitancy (AH) Video Recognition Challenge, 2nd Edition, at 10th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)”*](https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts1). [<a href="/otherdocs/abaw-10th-ah-2nd/Leaderboard_of_AH_2nd_ABAW10th___CVPR_2026.pdf">Leaderboard</a>][<a href="/otherdocs/abaw-10th-ah-2nd/Summary-of-ABAW-10th-AH-2nd-CVPR-2026.pdf">Slides</a>][<a href="https://drive.google.com/file/d/1a8oQXAunSqAiujzueKSf13b0h64MjVAX/view">ABAW10 Leaderboards</a>][<a href="https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts1">ABAW Page</a>][<a href="/otherdocs/Call--Ambivalence-Hesitancy-AH-Video-Recognition-Challenge--ABAW10th-CVPR-2026.pdf">Details</a>][<a href="https://www.linkedin.com/pulse/call-affective-computing-challenge-participation-10th-belharbi-gcwpe">LinkedIn Post</a>][<a href="https://arxiv.org/pdf/2605.27451">White paper</a>]
+* Jan. 2025: *New challenge is open now @ 8TH ABAW @ CVPR 2025*. [*“Ambivalence/Hesitancy (AH) Recognition Challenge, 1st Edition, at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)”*](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). [<a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">Page</a>][<a href="https://drive.google.com/file/d/1XpGBVp6TZnV3khbyP48SpIWmGnR8EbYU/view">Results</a>][<a href="https://doi.org/10.6084/m9.figshare.28524563.v4">White paper</a>]
+
+
+## Publications
+
 Full and up-to-date publications: <a style="display: inline;" href="http://scholar.google.com/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i> G. Scholar</a>
 
 #### 2026

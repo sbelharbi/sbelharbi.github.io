@@ -5,7 +5,8 @@ title: Miscellany
 tags: [miscellany]
 comments: false
 ---
-* Initiator and webmaster of [**Doctorants Actifs**](https://doctorants-actifs.github.io/index-en/) (DOC-AC club, INSA Rouen Normandie).
+
+* Creator and webmaster of [**Doctorants Actifs**](https://doctorants-actifs.github.io/index-en/) (DOC-AC club, INSA Rouen Normandie).
 * Jan. 2016-Feb. 2018: PhD students representative at the [**LITIS Laboratory Council**](http://www.litislab.eu/) (Conseil du
   laboratoire LITIS).
 * Mar. 2016 - Nov. 2017: Secretary and webmaster of the association [**ADDED**](https://asso-added.github.io/index-en/) (Association des Doctorants et Docteurs des
