@@ -21,7 +21,7 @@ My name is Soufiane Belharbi. I am a post-doc at [LIVIA Lab., ÉTS, Montreal](ht
 
 
 ## News
-* Aug. 2026: MICCAIw 2026 (2nd COLAS), [*“Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery”*](https://arxiv.org/pdf/2608.02883). [<a href="https://arxiv.org/pdf/2608.02883">arXiv</a>][<a href="https://github.com/ninaa-git/survey_pc_registration_tta">Code</a>]
+* Aug. 2026: MICCAIw 2026 (2nd COLAS), [*“Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery”*](https://arxiv.org/pdf/2608.02883). [<a href="/publications/papers/Test-Time-Adaptation-Methods-for-Point-Cloud-Registration-in-Laparoscopic-Surgery--MICCAI-2026-COLAS-Workshop.pdf">Camera-ready</a>][<a href="https://arxiv.org/pdf/2608.02883">arXiv</a>][<a href="https://github.com/ninaa-git/survey_pc_registration_tta">Code</a>]
 * Aug. 2026: ECCVw 2026 (11th ABAW), [*“From Complex Behavior to Intelligent Human-Centered AI: The 11th ABAW Workshop & Competition”*](https://arxiv.org/pdf/xxxx.xxxxx). [<a href="https://arxiv.org/pdf/xxxx.xxxxx">arXiv (Soon)</a>]
 * Aug. 2026: New arXiv, [*“Test-Time Adaptation with Online Personalized Energy-Based Cache for Fine-Grained Video Expression Recognition”*](https://arxiv.org/pdf/2608.06467). [<a href="https://arxiv.org/pdf/2608.06467">arXiv</a>][<a href="https://github.com/MasoumehSharafi/EB-CaP">Code</a>]
 * Jun. 2026: ACII 2026, [*“Multimodal Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions”*](https://arxiv.org/pdf/2604.11730). [<a href="https://arxiv.org/pdf/2604.11730">arXiv</a>][<a href="https://github.com/sbelharbi/ah-digital-health-interventions">Code</a>]
