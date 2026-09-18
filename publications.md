@@ -18,7 +18,7 @@ comments: false
 Full and up-to-date publications: <a style="display: inline;" href="http://scholar.google.com/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i> G. Scholar</a>
 
 #### 2026
-* Pattern Recognition journal, [*“TeD-Loc: Text Distillation for Weakly Supervised Object Localization”*](https://arxiv.org/pdf/2501.12632). [<a href="https://arxiv.org/pdf/2501.12632">arXiv</a>][<a href="https://github.com/shakeebmurtaza/TeDLOC">Code</a>][<a href="/ted-loc">Page</a>]
+* Pattern Recognition journal, [*“TeD-Loc: Text Distillation for Weakly Supervised Object Localization”*](https://arxiv.org/pdf/2501.12632). [<a href="https://arxiv.org/pdf/2501.12632">arXiv</a>][<a href="https://github.com/shakeebmurtaza/TeDLOC">Code</a>]
 * New arXiv, [*“Single-Exam Mammography Risk Prediction with Privileged History Distillation”*](https://arxiv.org/pdf/2603.15814). [<a href="https://arxiv.org/pdf/2603.15814">arXiv</a>][<a href="https://github.com/BanafshehKarimian/PHD">Code</a>]
 * MICCAIw 2026 (2nd COLAS), [*“Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery”*](https://arxiv.org/pdf/2608.02883). [<a href="/publications/papers/Test-Time-Adaptation-Methods-for-Point-Cloud-Registration-in-Laparoscopic-Surgery--MICCAI-2026-COLAS-Workshop.pdf">Camera-ready</a>][<a href="https://arxiv.org/pdf/2608.02883">arXiv</a>][<a href="https://github.com/ninaa-git/survey_pc_registration_tta">Code</a>]
 * ECCVw 2026 (11th ABAW), [*“From Complex Behavior to Intelligent Human-Centered AI: The 11th ABAW Workshop & Competition”*](https://openreview.net/pdf?id=Tmhm0UQzjt). [<a href="https://openreview.net/pdf?id=Tmhm0UQzjt">OpenReview</a>]
