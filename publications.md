@@ -17,9 +17,11 @@ comments: false
 
 Full and up-to-date publications: <a style="display: inline;" href="http://scholar.google.com/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i> G. Scholar</a>
 
-#### 2026
+#### 2027
 * WACV 2027, [*“Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos”*](https://arxiv.org/pdf/2603.21309). [<a href="https://arxiv.org/pdf/2603.21309">arXiv</a>][<a href="https://github.com/MasoumehSharafi/TTA-CaP">Code</a>]
 * Pattern Recognition journal, [*“TeD-Loc: Text Distillation for Weakly Supervised Object Localization”*](https://arxiv.org/pdf/2501.12632). [<a href="https://arxiv.org/pdf/2501.12632">arXiv</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0031320326019588/pdfft?md5=113a7cc79abf4762e75c854ca9e5cab8&pid=1-s2.0-S0031320326019588-main.pdf">Open access</a>][<a href="https://github.com/shakeebmurtaza/TeDLOC">Code</a>]
+
+#### 2026
 * New arXiv, [*“Single-Exam Mammography Risk Prediction with Privileged History Distillation”*](https://arxiv.org/pdf/2603.15814). [<a href="https://arxiv.org/pdf/2603.15814">arXiv</a>][<a href="https://github.com/BanafshehKarimian/PHD">Code</a>]
 * MICCAIw 2026 (2nd COLAS), [*“Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery”*](https://arxiv.org/pdf/2608.02883). [<a href="/publications/papers/Test-Time-Adaptation-Methods-for-Point-Cloud-Registration-in-Laparoscopic-Surgery--MICCAI-2026-COLAS-Workshop.pdf">Camera-ready</a>][<a href="https://arxiv.org/pdf/2608.02883">arXiv</a>][<a href="/publications/posters/Test-Time-Adaptation-Methods-for-Point-Cloud-Registration-in-Laparoscopic-Surgery-Poster-MICCAI-COLAS-2026.pdf">Poster</a>][<a href="/publications/slides/Test-Time-Adaptation-Methods-for-Point-Cloud-Registration-in-Laparoscopic-Surgery-Slides-MICCAI-COLAS-2026.pdf">Slides</a>][<a href="https://github.com/ninaa-git/survey_pc_registration_tta">Code</a>][<a href="https://sites.google.com/view/2026-colas/home">Best paper award</a>]
 * ECCVw 2026 (11th ABAW), [*“From Complex Behavior to Intelligent Human-Centered AI: The 11th ABAW Workshop & Competition”*](https://openreview.net/pdf?id=Tmhm0UQzjt). [<a href="https://openreview.net/pdf?id=Tmhm0UQzjt">OpenReview</a>]
